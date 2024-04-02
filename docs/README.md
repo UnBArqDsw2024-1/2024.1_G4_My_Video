@@ -1,26 +1,25 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2023.1_G1_ProjetoPandora*. !!** 
- 
- (Apague esses comentários)
-
-# Nome do Projeto
+# My_Video
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 04<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0097181  |  Ana Beatriz Ferreira dos Santos |
+| 19/0083930  |  Ana Caroline Campos Rocha |
+| 18/0098683  |  Breno Yuri |
+| 18/0144979  |  Caetano Santos Lucio |
+| 17/0007413  |  Caio Santos |
+| 21/1031664  |  Catlen Cleane Ferreira de Oliveira |
+| 20/2023681  |  Gabriel da Silva Rosa |
+| 19/0107243  |  Gabriel Pessoa Zaranza |
+| 18/0102761  |  Jefferson França Santos |
+| 20/2023888  |  Lucas Andrade Lobão |
+| 21/1063185  |  Lucas Ribeiro de Souza |
+| 18/0023179  |  Luiz Gustavo Lopes Campos |
+| 19/0047348  |  Marcelo Ferreira Magalhães Júnior  |
+
 
 ## Sobre 
 Contextualize, usando referências, links, e outros materiais como fontes.
