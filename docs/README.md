@@ -8,7 +8,7 @@
 | -- | -- | -- |
 | 18/0097181  |  Ana Beatriz Ferreira dos Santos | [anabfs](https://github.com/anabfs) |
 | 19/0083930  |  Ana Caroline Campos Rocha | [anabfs](https://github.com/anabfs) |
-| 18/0098683  |  Breno Yuri | [anabfs](https://github.com/anabfs) |
+| 18/0098683  |  Breno Yuri | [YuriBre](https://github.com/YuriBre) |
 | 18/0144979  |  Caetano Santos Lucio | [caeslucio](https://github.com/caeslucio) |
 | 17/0007413  |  Caio Santos | [caiobsantos](https://github.com/caiobsantos) |
 | 21/1031664  |  Catlen Cleane Ferreira de Oliveira | [catlenc](https://github.com/catlenc) |
