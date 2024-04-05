@@ -7,7 +7,7 @@
 |Matrícula | Aluno | Git |
 | -- | -- | -- |
 | 18/0097181  |  Ana Beatriz Ferreira dos Santos | [anabfs](https://github.com/anabfs) |
-| 19/0083930  |  Ana Caroline Campos Rocha | [anabfs](https://github.com/anabfs) |
+| 19/0083930  |  Ana Caroline Campos Rocha | [Ana Rocha](https://github.com/anaaroch) |
 | 18/0098683  |  Breno Yuri | [YuriBre](https://github.com/YuriBre) |
 | 18/0144979  |  Caetano Santos Lucio | [caeslucio](https://github.com/caeslucio) |
 | 17/0007413  |  Caio Santos | [caiobsantos](https://github.com/caiobsantos) |
