@@ -14,7 +14,11 @@ A seguir estão os storyboards desenvolvidos para a plataforma My_Video, numerad
 
 A Figura 1 é referente ao Storyboard onde o usuário realiza a tarefa de assistir a um filme na plataforma My_Video.
 
-<div style="text-align: center;">
+
+![Assistir](../assets/img/storyboards/1assistir.png)
+
+
+<div style="text-align: center;">  
   <img src="../assets/imgs/storyboards/1assistir.png" alt="image" width="800"/>
 </div>
 
