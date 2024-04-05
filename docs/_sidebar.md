@@ -11,6 +11,7 @@
       - [1.1.2 StoryBoard](Base/storyboard.md)
       - [1.1.3 5w2h](Base/5w2h.md)
       - [1.1.4 Mapa Mental](Base/mapa-mental.md)
+      - [1.1.5 Rich Picture](Base/rich_picture.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](/Base/1.2.ProcessosMetodologiasAbordagens.md)
     - [1.3. Participações - Base](/Base/1.3.ParticipacoesBase.md)
 
