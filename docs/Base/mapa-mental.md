@@ -25,15 +25,15 @@ Mapa Mental é um poderoso método que visa auxiliar no armazenamento, organiza�
 
 #### Processo
 
-Usando uma plataforma como referencia, foi usada a técnica de observação para entender e extrair as principais funcionalidades e requisitos de uma plataforma web de video.
+Usando uma plataforma como referencia, foi usada a técnica de observação para entender e extrair as principais funcionalidades e requisitos de uma plataforma web de vídeo.
 Com base nesse exercício foi possível separar as funcionalidades em dois grupos principais, sendo eles:
 
-- <strong>Busca de videos</strong>:
+- <strong>Busca de vídeos</strong>:
 
-  - Esse grupo envolve todas as funcionalidades disponíveis para que um usuário seja capaz de encontrar algum video, seja por meio de alguma busca textual, organização, separação e categorização de conteúdos ou por recomendações.
+  - Esse grupo envolve todas as funcionalidades disponíveis para que um usuário seja capaz de encontrar algum vídeo, seja por meio de alguma busca textual, organização, separação e categorização de conteúdos ou por recomendações.
 
-- <strong>Reprodução videos</strong>:
-  - Representa todas as funcionalidades que permitem que um usuário seja capaz de assistir e controlar a reprodução de um video.
+- <strong>Reprodução vídeos</strong>:
+  - Representa todas as funcionalidades que permitem que um usuário seja capaz de assistir e controlar a reprodução de um vídeo.
 
 <center>
 <div style="left: 0; width: 100%; height: 780px; position: relative;"><iframe src="https://lucid.app/embeds/link?document=e5204cda-dd9e-468e-8552-f8befa2516a7&clientId=2BiVMkDT0QXFJfn1y3Prdd3Tm3V1LiSCW1c9VkAi" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
@@ -44,14 +44,38 @@ Com base nesse exercício foi possível separar as funcionalidades em dois grupo
 
 Com base no Mapa Mental, foi possível elicitar os seguintes requisitos:
 
-| Legenda | Descrição | Tipo |
-| ------- | --------- | ---- |
-| MM01    |           | RNF  |
-| MM02    |           | RF   |
+| Legenda | Descrição                                                 | Tipo |
+| ------- | --------------------------------------------------------- | ---- |
+| MM01    | Buscar vídeos por nome                                    | RF   |
+| MM02    | Buscar vídeo pelo nome de pessoas e empresas relacionadas | RF   |
+| MM03    | Buscar vídeo pelo nome de personagem                      | RF   |
+| MM04    | Filtrar vídeos por tipo                                   | RF   |
+| MM05    | Filtrar vídeos por popularidade                           | RF   |
+| MM06    | Filtrar vídeos por data de lançamento                     | RF   |
+| MM07    | Filtrar vídeo por tema                                    | RF   |
+| MM08    | Filtrar vídeo por categoria                               | RF   |
+| MM09    | Filtrar vídeo por histórico de vídeos assistidos          | RF   |
+| MM10    | Recomendar vídeos                                         | RF   |
+| MM11    | Pausar vídeo                                              | RF   |
+| MM12    | Reproduzir vídeo                                          | RF   |
+| MM13    | Avançar e retroceder vídeo                                | RF   |
+| MM14    | Controlar volume do vídeo                                 | RF   |
+| MM15    | Mudar velocidade de reprodução do vídeo                   | RF   |
+| MM16    | Selecionar qualidade de imagem do vídeo                   | RF   |
+| MM17    | Configurar legendas do vídeo                              | RF   |
+| MM18    | Selecionar idioma do vídeo                                | RF   |
+| MM19    | Colocar vídeo em tela cheia                               | RF   |
+| MM20    | Pular vídeo                                               | RF   |
+| MM21    | Voltar para vídeo anterior                                | RF   |
+| MM22    | Mostrar resultados de busca rapidamente                   | RNF  |
+| MM23    | Reproduzir vídeo sem travamentos                          | RNF  |
+| MM24    | Iniciar reprodução dos vídeos rapidamente                 | RNF  |
 
 #### Legendas
 
 - MM: Elicitação por Mapa Mental
+- RF: Requisito Funcional
+- RNF: Requisito Não Funcional
 
 ## Referências Bibliográficas
 
@@ -61,7 +85,8 @@ Com base no Mapa Mental, foi possível elicitar os seguintes requisitos:
 
 ## Histórico de Versão
 
-| Versão | Data da alteração |       Alteração        |                   Responsável                    | Revisor | Data de revisão |
-| :----: | :---------------: | :--------------------: | :----------------------------------------------: | :-----: | :-------------: |
-|  1.0   |    04/04/2024     |  Criação do documento  | [Marcelo Magalhães](https://github.com/marrcelo) |         |                 |
-|  1.1   |    04/04/2024     | Artefato Mapa mental 1 | [Marcelo Magalhães](https://github.com/marrcelo) |         |                 |
+| Versão | Data da alteração |                      Alteração                       |                   Responsável                    | Revisor | Data de revisão |
+| :----: | :---------------: | :--------------------------------------------------: | :----------------------------------------------: | :-----: | :-------------: |
+|  1.0   |    05/04/2024     |                 Criação do documento                 | [Marcelo Magalhães](https://github.com/marrcelo) |         |                 |
+|  1.1   |    05/04/2024     |                Artefato Mapa mental 1                | [Marcelo Magalhães](https://github.com/marrcelo) |         |                 |
+|  1.1   |    05/04/2024     | Adição dos Requisitos elicitados com o Mapa mental 1 | [Marcelo Magalhães](https://github.com/marrcelo) |         |                 |
