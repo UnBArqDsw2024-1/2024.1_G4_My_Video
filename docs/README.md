@@ -61,4 +61,5 @@ Quaisquer outras informações adicionais podem ser descritas nessa seção.
 | Versão | Data da alteração |             Alteração             |   Autor(es)   |           Revisor(es)       | Data de revisão |
 | :----: | :---------------: | :-------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :-------------: |
 |  1.0   |       02/04/2024       |         Criação do documento        | [Caio Santos](https://github.com/caiobsantos) | [Ana Rocha](https://github.com/anaaroch) | 04/04/2024 |
-|  1.1   |       04/04/2024       |         Preenchimento do Sobre      | [Ana Rocha](https://github.com/anaaroch) |||
+|  1.1   |       04/04/2024       |         Inserindo nomes e matrículas        | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Ana Rocha](https://github.com/anaaroch) | 04/04/2024 |
+|  1.2   |       04/04/2024       |         Preenchimento do Sobre      | [Ana Rocha](https://github.com/anaaroch) |
