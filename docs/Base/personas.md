@@ -55,7 +55,7 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 |- **Gênero:** Masculino|
 |- **Idade:** 30 anos|
 |- **Escolaridade:** Ensino Superior|
-- **Habilidades:** Conhecimento avançado em tecnologia, familiaridade com diferentes dispositivos eletrônicos, habilidade para análise crítica de mídia.|
+|- **Habilidades:** Conhecimento avançado em tecnologia, familiaridade com diferentes dispositivos eletrônicos, habilidade para análise crítica de mídia.|
 |- **Tarefa Primária:** Consumir conteúdo audiovisual, especialmente filmes de ficção científica e séries de ação.|
 |- **Objetivo:** Encontrar um serviço de streaming que ofereça uma ampla seleção de títulos em alta definição, sem restrições de qualidade.|
 |- **Relacionamentos:** Mora sozinho e utiliza o serviço de streaming como principal forma de entretenimento.|
