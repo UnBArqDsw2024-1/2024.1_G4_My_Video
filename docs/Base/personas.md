@@ -32,7 +32,7 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 ## Resultado
 
 |Persona Primária 1|
-|:---:|
+|:---|
 | ![](../assets/img/personas/anaSilva.jpeg) <p>Figura 1: Ana Silva |
 |- **Nome:** Ana Silva|
 |- **Gênero:** Feminino|
@@ -46,9 +46,10 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 |- **Expectativas:** Espera encontrar um serviço de streaming que atenda às suas preferências de conteúdo, oferecendo uma experiência fluida e agradável de navegação.|
 
 <br>
+<br>
 
 |Persona Primária 2|
-|:---:|
+|:---|
 | ![](../assets/img/personas/lucasOliveira.jpeg) <p>Figura 2: Lucas Oliveira |
 |- **Nome:** Lucas Oliveira|
 |- **Gênero:** Masculino|
@@ -62,9 +63,10 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 |- **Expectativas:** Deseja uma experiência de streaming livre de problemas técnicos, com uma vasta biblioteca de conteúdo atualizado e clássicos.|
 
 <br>
+<br>
 
 |Persona Secundária 1|
-|:---:|
+|:---|
 | ![](../assets/img/personas/joaoSantos.jpeg) <p>Figura 3: João Santos |
 |- **Nome:** João Santos|
 |- **Gênero:** Masculino|
@@ -78,9 +80,10 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 |- **Expectativas:** Espera encontrar um serviço de streaming que se adapte às suas necessidades e orçamento, proporcionando uma ampla variedade de opções de entretenimento.|
 
 <br>
+<br>
 
 |Persona Secundária 2|
-|:---:|
+|:---|
 | ![](../assets/img/personas/sofiaGarcia.jpeg) <p>Figura 4: Sofia Garcia |
 |- **Nome:** Sofia Garcia|
 |- **Gênero:** Feminino|
@@ -93,11 +96,11 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 |- **Requisitos:** Catálogo diversificado de documentários e conteúdo educativo, interface amigável, disponibilidade de legendas em diferentes idiomas.|
 |- **Expectativas:** Espera encontrar um serviço de streaming que atenda às suas necessidades de aprendizado e entretenimento, oferecendo uma seleção abrangente de documentários e conteúdo educativo de qualidade. Além disso, busca uma experiência de usuário intuitiva e sem interrupções.|
 
-
+<br>
 <br>
 
 |Anti-Persona|
-|:---:|
+|:---|
 | ![](../assets/img/personas/carlaLima.jpeg) <p>Figura 4: Carla Lima |
 |- **Nome:** Carla Lima|
 |- **Gênero:** Masculino|
