@@ -23,9 +23,9 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 3- **Segmentação dos Usuários:** Com base nos padrões identificados, os usuários foram segmentados em grupos que compartilhavam características semelhantes. Isso permitiu uma compreensão das necessidades e preferências específicas de cada grupo de usuários.
 
-4- **Criação das Personas:** Com base nas segmentações e nas informações disponíveis, foram criadas três personas que representavam diferentes perfis de usuários de serviços de streaming. Cada persona foi desenvolvida com base em características demográficas, comportamentais, necessidades, objetivos, expectativas e desafios específicos.
+4- **Criação das Personas:** Com base nas segmentações e nas informações disponíveis, foram criadas quatro personas que representam diferentes perfis de usuários de serviços de streaming. Cada persona foi desenvolvida com base em características demográficas, comportamentais, necessidades, objetivos, expectativas e desafios específicos.
 
-5- **Criação de Anti-Persona:** Além das personas, tambémfoi criado uma anti-persona, representando os usuários que não se encaixam no público-alvo dos serviços de streaming ou que apresentam comportamentos e preferências que podem prejudicar a experiência do usuário. 
+5- **Criação de Anti-Persona:** Além das personas, também foi criado uma anti-persona, representando os usuários que não se encaixam no público-alvo dos serviços de streaming ou que apresentam comportamentos e preferências que podem prejudicar a experiência do usuário. 
 
 </div>
 
@@ -103,13 +103,13 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 |:---|
 | ![](../assets/img/personas/carlaLima.jpeg) <p>Figura 4: Carla Lima |
 |- **Nome:** Carla Lima|
-|- **Gênero:** Masculino|
+|- **Gênero:** Feminino|
 |- **Idade:** 44 anos|
 |- **Escolaridade:** Ensino Superior|
 |- **Habilidades:** Resistência à mudança, preferência por métodos tradicionais de entretenimento.|
 |- **Tarefa Primária:** Consumir entretenimento de forma ocasional, preferencialmente através de canais de televisão convencionais.|
 |- **Objetivo:** Evitar aderir a serviços de streaming devido à complexidade percebida e ao custo adicional.|
-|- **Relacionamentos:** Casado e com filhos, prefere assistir a programas de TV em família.|
+|- **Relacionamentos:** Casada e com filhos, prefere assistir a programas de TV em família.|
 |- **Requisitos:** Simplicidade de uso, custo baixo ou inexistente, familiaridade com o formato de TV tradicional.|
 |-**Expectativas:** Não se interessa por serviços de streaming devido à preferência por métodos de entretenimento mais convencionais e à percepção de complexidade e custo adicionais.|
 
@@ -131,5 +131,5 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 | Versão | Data da alteração |             Alteração             |                   Responsável                   |                     Revisor                     | Data de revisão |
 | :----: | :---------------: | :-------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :-------------: |
-|  1.0   |       06/04       |         Criação do documento        | [Catlen Cleane](https://github.com/catlenc) |||
-|  1.1  |       07/04       |         Correções do artefato        | [Catlen Cleane](https://github.com/catlenc) |||
+|  1.0   |       06/04/2024       |         Criação do documento        | [Catlen Cleane](https://github.com/catlenc) |[Luiz Gustavo](https://github.com/Luiz-GL-Campos)| 07/04/2024 |
+|  1.1   |       07/04/2024       |         Correções do artefato       | [Catlen Cleane](https://github.com/catlenc) |[Luiz Gustavo](https://github.com/Luiz-GL-Campos)| 07/04/2024 |
