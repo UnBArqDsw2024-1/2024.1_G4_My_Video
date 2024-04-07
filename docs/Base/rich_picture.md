@@ -3,7 +3,7 @@
 ## Introdução
 
 <p style="text-align: justify;">
-O Rich Picture é uma ferramenta visual que permite expressar o entendimento que se tem sobre o negócio, e como funciona todo o processo que será desenvolvido. Nesse sentido, a fim de desenvolver um entendimento comum entre o grupo, sobre o nosso projeto (My Video), elaboramos os seguintes artefatos:
+O Rich Picture é uma ferramenta visual que permite expressar o entendimento que se tem sobre o negócio, e como funciona todo o processo que será desenvolvido. Nesse sentido, a fim de desenvolver um entendimento comum entre o grupo, sobre o nosso projeto (My Video), elaboramos o seguinte artefato.
 </p>
 
 ## Metodologia
@@ -50,11 +50,11 @@ Nas figuras 2 e 3, foram desenvolvidos os seguintes Rich Pictures representado o
 
 > [1] Rich Picture. Wiki Arquitetura e Desenho de Software - Projeto Americanas - Grupo 4. Disponível em: https://unbarqdsw2023-2.github.io/2023.2_G4_ProjetoAmericanas/#/Base/richPicture. Acesso em: 05 abril de 2024.
 
-> [2] Rich Picture. Wiki Arquitetura e Desenho de Software - Projeto MAgazine Luiza - Grupo 8. Disponível em: https://unbarqdsw2023-2.github.io/2023.2_G8_ProjetoMagazineLuiza/#/./Base/RichPicture. Acesso em: 07 abril de 2024.
+> [2] Rich Picture. Wiki Arquitetura e Desenho de Software - Projeto Magazine Luiza - Grupo 8. Disponível em: https://unbarqdsw2023-2.github.io/2023.2_G8_ProjetoMagazineLuiza/#/./Base/RichPicture. Acesso em: 07 abril de 2024.
 
 ## Histórico de Versão
 
-| Data  | Atividade                 | Autor             | Revisor      |
-| ----- | ------------------------- | ----------------- | ------------ |
-| 05/04 | Criação do documento      | Lucas e Jefferson | Ana Caroline |
-| 07/04 | Adicionando Rich Pictures | Lucas e Jefferson | Ana Caroline |
+| Versão | Data  | Atividade                 | Autor(es)             | Revisor(es)      | Data de Revisão |
+| :----: | :---: | :-----------------------: | :-------------------: | :--------------: | :-------------: |
+| 1.0 | 05/04 | Criação do documento      | [Lucas Lobão](https://github.com/lucaslobao-18) e [Jefferson França](https://github.com/Frans6) | [Ana Rocha](https://github.com/anaaroch) | 07/04 |
+| 1.1 | 07/04 | Adicionando Rich Pictures | [Lucas Lobão](https://github.com/lucaslobao-18) e [Jefferson França](https://github.com/Frans6) | [Ana Rocha](https://github.com/anaaroch) | 07/04 |
