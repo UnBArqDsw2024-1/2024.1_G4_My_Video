@@ -46,7 +46,7 @@ A Figura 4 refere-se ao Storyboard em que o usuário realiza uma busca por um t�
 
 ## Conclusão
 
-Conclusão aqui.
+Com base nos storyboards propostos, podemos perceber algumas das funcionalidades principais, que devem conter o projeto, bem como alguns dos fluxos que serão realizados pelo usuário ao interagir com a plataforma. Após acessar a plataforma, será possível assistir os vídeos disponíveis, a escolha do usuário; Adicionar qualquer filme ou série a lista para assistir mais tarde; Encontrar sugestões de filmes com base nos gostos do usuário, ou o que está sendo mais assistido pelos usuários atualmente; Buscar um filme/série pelo nome e verificar se está disponível na plataforma. E com base nesse artefato, podemos validar a importância dessas funcionalidades para o projeto.
 
 ## Histórico de Versão
 
