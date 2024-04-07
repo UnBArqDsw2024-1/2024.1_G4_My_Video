@@ -44,7 +44,46 @@ Para realizar o brainstorming coletivamente, utilizamos o Teams como plataforma 
 <br>
 
 ### Requisitos Elicitados
-a partir do brainstorming, foi possível entender melhor o projeto e assim, elicitar os seguintes requisitos...
+**Fluxo de assistir a um vídeo:**
+
+| <p align="center">ID</p> | <p align="center">Requisito</p> |
+| :--: | :-------------------------------------------------: |
+| RF01 | O usuário deve ser capaz de definir a qualidade do vídeo. |
+| RF02 | Os usuários devem ter a opção de ativar legendas, além de escolher seu idioma. |
+| RF03 | Deve haver controles de reprodução de vídeo disponíveis para o usuário, como pause, avançar ou retroceder. |
+| RF04 | O usuário deve ser capaz de escolher a velocidade do vídeo. |
+| RF05 | O usuário deve poder escolher o idioma do seu vídeo. |
+| RF06 | A plataforma deve ter suporte para diferentes resoluções de tela, garantindo que o usuário assista em diferentes dispositivos. |
+| RF07 | A plataforma deve garantir que o áudio e o vídeo estejam sincronizados |  
+
+**Fluxo de criar conta / login:**
+
+| <p align="center">ID</p> | <p align="center">Requisito</p> |
+| :--: | :-------------------------------------------------: |
+| RF08 | Os usuários devem ser capazes de criar vários perfis para uma mesma conta |
+| RF09 | Os usuários devem ter a opção personalizar seu perfil |
+| RF10 | Um usuário pode criar uma conta infantil que contenha restrições de conteúdo |
+
+**Fluxo de buscar/selecionar um conteúdo**
+
+| <p align="center">ID</p> | <p align="center">Requisito</p> |
+| :--: | :-------------------------------------------------: |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+
+**Outros**
+
+| <p align="center">ID</p> | <p align="center">Requisito</p> |
+| :--: | :-------------------------------------------------: |
+|  |  |
+|  |  |
+|  |  |
+
 
 ## Histórico de Versão
 
@@ -53,3 +92,4 @@ a partir do brainstorming, foi possível entender melhor o projeto e assim, elic
 |  1.0   |       03/04       |         Criação do documento        | [Caio Santos](https://github.com/caiobsantos) |||
 |  1.1   |       04/04       |         Adiciona metodologia       | [Caio Santos](https://github.com/caiobsantos) |||
 |  1.2   |       05/04       |         Adiciona quadro do miro       | [Caio Santos](https://github.com/caiobsantos) |||
+|  1.3   |       07/04       |         Adiciona alguns requisitos       | [Caio Santos](https://github.com/caiobsantos) |||
