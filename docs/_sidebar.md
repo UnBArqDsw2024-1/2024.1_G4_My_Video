@@ -3,6 +3,7 @@
 - [Home](/)
 - [Diretrizes](/Diretrizes/Diretrizes.md)
 
+
 - **Base**
 
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
@@ -37,3 +38,6 @@
     - [4.1. Módulo Estilos e Padrões Arquiteturais](/ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
     - [4.2. Módulo Reutilização de Software](/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
     - [4.3. Participações - Arquitetura & Reutilização de Software](/ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)
+
+- **Atas de reuniões**
+  - [Reunião 01 - 01/04/2024](/docs/ata_reuniao/reuniao1.md)
