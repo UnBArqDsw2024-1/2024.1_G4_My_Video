@@ -133,4 +133,4 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 | :----: | :---------------: | :-------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :-------------: |
 |  1.0   |       06/04/2024       |         Criação do documento        | [Catlen Cleane](https://github.com/catlenc) |[Luiz Gustavo](https://github.com/Luiz-GL-Campos)| 07/04/2024 |
 |  1.1   |       07/04/2024       |         Correções do artefato       | [Catlen Cleane](https://github.com/catlenc) |[Luiz Gustavo](https://github.com/Luiz-GL-Campos)| 07/04/2024 |
-|  1.2   |       07/04/2024       |         Alteração nas tabelas       | [Ana Beatriz](https://github.com/anabfs) |||
+|  1.2   |       07/04/2024       |         Alteração nas tabelas       | [Ana Beatriz](https://github.com/anabfs) |[Breno Yuri](https://github.com/YuriBre)|07/04/2024|
