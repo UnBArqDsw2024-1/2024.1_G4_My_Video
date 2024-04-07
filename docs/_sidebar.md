@@ -15,6 +15,7 @@
       - [1.1.5 Perfil de Usuário](Base/perfil-usuario.md)
       - [1.1.6 Personas](Base/personas.md)
       - [1.1.7 Rich Picture](Base/rich_picture.md)
+      - [1.1.8 Protótipo](Base/prototipo.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](/Base/1.2.ProcessosMetodologiasAbordagens.md)
     - [1.3. Participações - Base](/Base/1.3.ParticipacoesBase.md)
 
