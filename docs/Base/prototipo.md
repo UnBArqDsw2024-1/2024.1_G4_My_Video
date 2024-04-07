@@ -23,8 +23,9 @@ Um protótipo, concebido durante a <a href="https://unbarqdsw2024-1.github.io/20
 
 ## Referências
 
-- [Medium](https://medium.com/gobee/design-sprint-resumo-3a5b634bd311);
-- [TreinaWeb](https://www.treinaweb.com.br/blog/como-funciona-a-prototipacao-no-desenvolvimento-de-software);
+> [1] The Design Sprint; http://www.gv.com/sprint/?source=post_page-----3a5b634bd311--------------------------------
+
+> [2] Como funciona a prototipação no desenvolvimento de software;  https://www.treinaweb.com.br/blog/como-funciona-a-prototipacao-no-desenvolvimento-de-software
 
 ## Histórico de Versão
 
