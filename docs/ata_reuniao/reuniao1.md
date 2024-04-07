@@ -57,6 +57,6 @@ Foi definido que os artefatos que o projeto será um serviço de streaming de fi
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor | Revisor |
-| :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |07/04/2024| Criação da ata de reunião | [Gabriel Zaranza](https://github.com/GZaranza) |  |
+| Versão | Data | Descrição | Autor | Revisor | Data da Revisão |
+| :----: | ---- | --------- | ----- | ------- | --------------- |
+| `1.0`  |07/04/2024| Criação da ata de reunião | [Gabriel Zaranza](https://github.com/GZaranza) | [Ana Rocha](https://github.com/anaaroch) | 07/04 |

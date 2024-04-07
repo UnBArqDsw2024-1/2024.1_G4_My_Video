@@ -42,7 +42,7 @@ O questionário incluiu um termo de consentimento para garantir a participação
 
 ## Referências Bibliográficas
 
-> Slides da E-Disciplina da USP de Interação Humano-Computador https://edisciplinas.usp.br/pluginfile.php/4531121/mod_resource/content/1/IHC%20Usuario_Personas_Pesquisas.pdf.
+> Slides da E-Disciplina da USP de Interação Humano-Computador https://edisciplinas.usp.br/pluginfile.php/4531121/mod_resource/content/1/IHC%20Usuario_Personas_Pesquisas.pdf. Acesso em 05 de Abr. de 2024.
 
 
 ## Histórico de Versão
@@ -50,3 +50,5 @@ O questionário incluiu um termo de consentimento para garantir a participação
 | Versão | Data da alteração |             Alteração             |                   Responsável                   |                     Revisor                     | Data de revisão |
 | :----: | :---------------: | :-------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :-------------: |
 |  1.0   |       05/04       |         Criação do documento        | [Ana Beatriz](https://github.com/anabfs) |[Catlen Cleane](https://github.com/catlenc)|07/04|
+|  1.1   |       07/04       |         Adição da referência bibliográfica       | [Ana Beatriz](https://github.com/anabfs) | [Ana Rocha](https://github.com/anaaroch) | 07/04 |
+
