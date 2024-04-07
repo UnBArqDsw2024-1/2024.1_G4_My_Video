@@ -33,7 +33,7 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 |Persona Primária 1||
 |:---|:---|
-| **Foto**|![](../assets/img/personas/anaSilva.jpeg){ width=200 }<p style="font-size:12px;">Figura 1: Ana Silva</p></div>|
+| **Foto**|![](../assets/img/personas/anaSilva.jpeg)<p style="font-size:12px;">Figura 1: Ana Silva</p></div>|
 | **Nome**| Ana Silva|
 | **Gênero**| Feminino|
 | **Idade**| 23 anos|
@@ -50,7 +50,7 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 |Persona Primária 2||
 |:---|:---|
-| **Foto**|![](../assets/img/personas/lucasOliveira.jpeg){ width=200 }<p style="font-size:12px;">Figura 2: Lucas Oliveira</p></div>|
+| **Foto**|![](../assets/img/personas/lucasOliveira.jpeg)<p style="font-size:12px;">Figura 2: Lucas Oliveira</p></div>|
 | **Nome**| Lucas Oliveira|
 | **Gênero**| Masculino|
 | **Idade**| 30 anos|
@@ -67,7 +67,7 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 |Persona Secundária 1||
 |:---|:---|
-| **Foto**|![](../assets/img/personas/joaoSantos.jpeg){ width=200 }<p style="font-size:12px;">Figura 3: João Santos</p></div>|
+| **Foto**|![](../assets/img/personas/joaoSantos.jpeg)<p style="font-size:12px;">Figura 3: João Santos</p></div>|
 | **Nome**| João Santos|
 | **Gênero**| Masculino|
 | **Idade**| 19 anos|
@@ -84,7 +84,7 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 |Persona Secundária 2||
 |:---|:---|
-| **Foto**|![](../assets/img/personas/sofiaGarcia.jpeg){width=200}<p style="font-size:12px;">Figura 4: Sofia Garcia</p></div>|
+| **Foto**|![](../assets/img/personas/sofiaGarcia.jpeg)<p style="font-size:12px;">Figura 4: Sofia Garcia</p></div>|
 | **Nome**| Sofia Garcia|
 | **Gênero**| Feminino|
 | **Idade**| 28 anos|
@@ -101,7 +101,7 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 |Anti-Persona||
 |:---|:---|
-| **Foto**|![](../assets/img/personas/carlaLima.jpeg){ width=200 }<p style="font-size:12px;">Figura 5: Carla Lima</p></div>|
+| **Foto**|![](../assets/img/personas/carlaLima.jpeg)<p style="font-size:12px;">Figura 5: Carla Lima</p></div>|
 | **Nome**| Carla Lima|
 | **Gênero**| Feminino|
 | **Idade**| 44 anos|
