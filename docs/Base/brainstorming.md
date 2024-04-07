@@ -21,7 +21,8 @@ Para realizar o brainstorming coletivamente, utilizamos o Teams como plataforma 
 - Assistir vídeos;
 - Criação de conta / Login;
 - Seleção / Busca de vídeos;
-- Criação de playlist.
+- Criação de playlist;
+- Outro fluxos.
 
 2. Depois de especificar os principais fluxos do negócio, entramos de fato na fase do brainstorming, cada membro do grupo teve a oportunidade de compartilhar insights e sugestões dentro de cada etapa definida. Essa fase permitiu uma troca aberta de ideias, incentivando a criatividade e a colaboração entre os participantes.
 
@@ -55,8 +56,6 @@ Para realizar o brainstorming coletivamente, utilizamos o Teams como plataforma 
 | RF05 | O usuário deve poder escolher o idioma do seu vídeo. |
 | RF06 | A plataforma deve ter suporte para diferentes resoluções de tela, garantindo que o usuário assista em diferentes dispositivos. |
 | RF07 | A plataforma deve garantir que o áudio e o vídeo estejam sincronizados |  
-
-### Requisitos Elicitados
 
 **Fluxo de Conta/Login:**
 

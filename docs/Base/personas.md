@@ -31,21 +31,9 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 ## Resultado
 
-### Persona Primária 1:
-
-|<div align="center">
-<img src="../assets/img/personas/anaSilva.jpeg" width="300" height="300">
-</div>
-
-<div align="center">
-
-<figcaption align='center'>
-    <b>Figura 01: Ana Silva - Persona Primária.</b>
-</figcaption>
-</div>
-
-<br>|
-|----|
+|Persona Primária 1|
+|:---|
+| ![](../assets/img/personas/anaSilva.jpeg) <p>Figura 1: Ana Silva |
 |- **Nome:** Ana Silva|
 |- **Gênero:** Feminino|
 |- **Idade:** 23 anos|
@@ -57,22 +45,12 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 |- **Requisitos:** Interface intuitiva, variedade de gêneros e títulos, ausência de anúncios, preço acessível.|
 |- **Expectativas:** Espera encontrar um serviço de streaming que atenda às suas preferências de conteúdo, oferecendo uma experiência fluida e agradável de navegação.|
 
+<br>
+<br>
 
-## Persona Primária 2:
-
-|<div align="center">
-<img src="../assets/img/personas/lucasOliveira.jpeg" width="300" height="300">
-</div>
-
-<div align="center">
-
-<figcaption align='center'>
-    <b>Figura 02: Lucas Oliveira - Persona Primária.</b>
-</figcaption>
-</div>
-
-<br>|
-|-----|
+|Persona Primária 2|
+|:---|
+| ![](../assets/img/personas/lucasOliveira.jpeg) <p>Figura 2: Lucas Oliveira |
 |- **Nome:** Lucas Oliveira|
 |- **Gênero:** Masculino|
 |- **Idade:** 30 anos|
@@ -84,21 +62,12 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 |- **Requisitos:** Qualidade de imagem e som impecáveis, opções de legendas e áudio em diferentes idiomas, catálogo diversificado.|
 |- **Expectativas:** Deseja uma experiência de streaming livre de problemas técnicos, com uma vasta biblioteca de conteúdo atualizado e clássicos.|
 
-## Persona Secundária 1:
+<br>
+<br>
 
-|<div align="center">
-<img src="../assets/img/personas/joaoSantos.jpeg" width="300" height="300">
-</div>
-
-<div align="center">
-
-<figcaption align='center'>
-    <b>Figura 03: João Santos - Persona Secundária.</b>
-</figcaption>
-</div>
-
-<br>|
-|----|
+|Persona Secundária 1|
+|:---|
+| ![](../assets/img/personas/joaoSantos.jpeg) <p>Figura 3: João Santos |
 |- **Nome:** João Santos|
 |- **Gênero:** Masculino|
 |- **Idade:** 19 anos|
@@ -110,21 +79,12 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 |- **Requisitos:** Facilidade de acesso via dispositivos móveis, preço acessível, catálogo diversificado.|
 |- **Expectativas:** Espera encontrar um serviço de streaming que se adapte às suas necessidades e orçamento, proporcionando uma ampla variedade de opções de entretenimento.|
 
-## Persona Secundária 2:
+<br>
+<br>
 
-|<div align="center">
-<img src="../assets/img/personas/sofiaGarcia.jpeg" width="300" height="300">
-</div>
-
-<div align="center">
-
-<figcaption align='center'>
-    <b>Figura 04: Sofia Garcia - Persona Secundária.</b>
-</figcaption>
-</div>
-
-<br>|
-|----|
+|Persona Secundária 2|
+|:---|
+| ![](../assets/img/personas/sofiaGarcia.jpeg) <p>Figura 4: Sofia Garcia |
 |- **Nome:** Sofia Garcia|
 |- **Gênero:** Feminino|
 |- **Idade:** 28 anos|
@@ -136,21 +96,12 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 |- **Requisitos:** Catálogo diversificado de documentários e conteúdo educativo, interface amigável, disponibilidade de legendas em diferentes idiomas.|
 |- **Expectativas:** Espera encontrar um serviço de streaming que atenda às suas necessidades de aprendizado e entretenimento, oferecendo uma seleção abrangente de documentários e conteúdo educativo de qualidade. Além disso, busca uma experiência de usuário intuitiva e sem interrupções.|
 
-## Anti-Persona:
+<br>
+<br>
 
-|<div align="center">
-<img src="../assets/img/personas/carlaLima.jpeg" width="300" height="300">
-</div>
-
-<div align="center">
-
-<figcaption align='center'>
-    <b>Figura 05: Carla Lima - Anti-persona.</b>
-</figcaption>
-</div>
-
-<br>|
-|----|
+|Anti-Persona|
+|:---|
+| ![](../assets/img/personas/carlaLima.jpeg) <p>Figura 4: Carla Lima |
 |- **Nome:** Carla Lima|
 |- **Gênero:** Masculino|
 |- **Idade:** 44 anos|
@@ -173,7 +124,8 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 > [2] This-Person-Does-not-Exist.com Dispónivel em: <https://this-person-does-not-exist.com/pt>.
 > 
 
-
+</div>
+<br>
 
 ## Histórico de Versão
 
