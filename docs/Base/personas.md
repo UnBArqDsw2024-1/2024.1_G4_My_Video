@@ -23,18 +23,17 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 3- **Segmentação dos Usuários:** Com base nos padrões identificados, os usuários foram segmentados em grupos que compartilhavam características semelhantes. Isso permitiu uma compreensão das necessidades e preferências específicas de cada grupo de usuários.
 
-4- **Criação das Personas:** Com base nas segmentações e nas informações disponíveis, foram criadas três personas que representavam diferentes perfis de usuários de serviços de streaming. Cada persona foi desenvolvida com base em características demográficas, comportamentais, necessidades, objetivos, expectativas e desafios específicos.
+4- **Criação das Personas:** Com base nas segmentações e nas informações disponíveis, foram criadas quatro personas que representam diferentes perfis de usuários de serviços de streaming. Cada persona foi desenvolvida com base em características demográficas, comportamentais, necessidades, objetivos, expectativas e desafios específicos.
 
-5- **Criação de Anti-Persona:** Além das personas, tambémfoi criado uma anti-persona, representando os usuários que não se encaixam no público-alvo dos serviços de streaming ou que apresentam comportamentos e preferências que podem prejudicar a experiência do usuário. 
+5- **Criação de Anti-Persona:** Além das personas, também foi criado uma anti-persona, representando os usuários que não se encaixam no público-alvo dos serviços de streaming ou que apresentam comportamentos e preferências que podem prejudicar a experiência do usuário. 
 
 </div>
 
 ## Resultado
 
-### Persona Primária 1:
-
-|<font size="3"><p style="text-align: center">Figura 1- Persona Primária Ana Silva.</p></font><figure markdown>![Persona Ana Silva](../assets/img/personas/anaSilva.jpeg){:style="height:500px;width:500px"}<figcaption>|
-|----|
+|Persona Primária 1|
+|:---|
+| ![](../assets/img/personas/anaSilva.jpeg) <p>Figura 1: Ana Silva |
 |- **Nome:** Ana Silva|
 |- **Gênero:** Feminino|
 |- **Idade:** 23 anos|
@@ -46,11 +45,12 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 |- **Requisitos:** Interface intuitiva, variedade de gêneros e títulos, ausência de anúncios, preço acessível.|
 |- **Expectativas:** Espera encontrar um serviço de streaming que atenda às suas preferências de conteúdo, oferecendo uma experiência fluida e agradável de navegação.|
 
+<br>
+<br>
 
-## Persona Primária 2:
-
-|<font size="3"><p style="text-align: center">Figura 2- Persona Primária Lucas Oliveira.</p></font><figure markdown>![Persona Lucas Oliveira](../assets/img/personas/lucasOliveira.jpeg){:style="height:500px;width:500px"}<figcaption>|
-|-----|
+|Persona Primária 2|
+|:---|
+| ![](../assets/img/personas/lucasOliveira.jpeg) <p>Figura 2: Lucas Oliveira |
 |- **Nome:** Lucas Oliveira|
 |- **Gênero:** Masculino|
 |- **Idade:** 30 anos|
@@ -62,10 +62,12 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 |- **Requisitos:** Qualidade de imagem e som impecáveis, opções de legendas e áudio em diferentes idiomas, catálogo diversificado.|
 |- **Expectativas:** Deseja uma experiência de streaming livre de problemas técnicos, com uma vasta biblioteca de conteúdo atualizado e clássicos.|
 
-## Persona Secundária 1:
+<br>
+<br>
 
-|<font size="3"><p style="text-align: center">Figura 3- Persona Secundária João Santos.</p></font><figure markdown>![Persona João Santos](../assets/img/personas/joaoSantos.jpeg){:style="height:250px;width:500px"}<figcaption>|
-|----|
+|Persona Secundária 1|
+|:---|
+| ![](../assets/img/personas/joaoSantos.jpeg) <p>Figura 3: João Santos |
 |- **Nome:** João Santos|
 |- **Gênero:** Masculino|
 |- **Idade:** 19 anos|
@@ -77,10 +79,12 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 |- **Requisitos:** Facilidade de acesso via dispositivos móveis, preço acessível, catálogo diversificado.|
 |- **Expectativas:** Espera encontrar um serviço de streaming que se adapte às suas necessidades e orçamento, proporcionando uma ampla variedade de opções de entretenimento.|
 
-## Persona Secundária 2:
+<br>
+<br>
 
-|<font size="3"><p style="text-align: center">Figura 4- Persona Secundária Sofia Garcia.</p></font><figure markdown>![Persona Sofia Garcia](../assets/img/personas/sofiaGarcia.jpeg){:style="height:500px;width:500px"}<figcaption>|
-|----|
+|Persona Secundária 2|
+|:---|
+| ![](../assets/img/personas/sofiaGarcia.jpeg) <p>Figura 4: Sofia Garcia |
 |- **Nome:** Sofia Garcia|
 |- **Gênero:** Feminino|
 |- **Idade:** 28 anos|
@@ -92,18 +96,20 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 |- **Requisitos:** Catálogo diversificado de documentários e conteúdo educativo, interface amigável, disponibilidade de legendas em diferentes idiomas.|
 |- **Expectativas:** Espera encontrar um serviço de streaming que atenda às suas necessidades de aprendizado e entretenimento, oferecendo uma seleção abrangente de documentários e conteúdo educativo de qualidade. Além disso, busca uma experiência de usuário intuitiva e sem interrupções.|
 
-## Anti-Persona:
+<br>
+<br>
 
-|<font size="3"><p style="text-align: center">Figura 5- Anti-Persona Carlos Lima.</p></font><figure markdown>![Anti-Persona Carlos Lima](../assets/img/personas/carlosLima.jpeg){:style="height:500px;width:500px"}<figcaption>|
-|----|
-|- **Nome:** Carlos Lima|
-|- **Gênero:** Masculino|
+|Anti-Persona|
+|:---|
+| ![](../assets/img/personas/carlaLima.jpeg) <p>Figura 4: Carla Lima |
+|- **Nome:** Carla Lima|
+|- **Gênero:** Feminino|
 |- **Idade:** 44 anos|
 |- **Escolaridade:** Ensino Superior|
 |- **Habilidades:** Resistência à mudança, preferência por métodos tradicionais de entretenimento.|
 |- **Tarefa Primária:** Consumir entretenimento de forma ocasional, preferencialmente através de canais de televisão convencionais.|
 |- **Objetivo:** Evitar aderir a serviços de streaming devido à complexidade percebida e ao custo adicional.|
-|- **Relacionamentos:** Casado e com filhos, prefere assistir a programas de TV em família.|
+|- **Relacionamentos:** Casada e com filhos, prefere assistir a programas de TV em família.|
 |- **Requisitos:** Simplicidade de uso, custo baixo ou inexistente, familiaridade com o formato de TV tradicional.|
 |-**Expectativas:** Não se interessa por serviços de streaming devido à preferência por métodos de entretenimento mais convencionais e à percepção de complexidade e custo adicionais.|
 
@@ -111,9 +117,19 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 </div>
 <br>
 
+## Referências Bibliográficas
+
+> [1] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> 
+> [2] This-Person-Does-not-Exist.com Dispónivel em: <https://this-person-does-not-exist.com/pt>.
+> 
+
+</div>
+<br>
 
 ## Histórico de Versão
 
 | Versão | Data da alteração |             Alteração             |                   Responsável                   |                     Revisor                     | Data de revisão |
 | :----: | :---------------: | :-------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :-------------: |
-|  1.0   |       06/04       |         Criação do documento        | [Catlen Cleane](https://github.com/catlenc) |||
+|  1.0   |       06/04/2024       |         Criação do documento        | [Catlen Cleane](https://github.com/catlenc) |[Luiz Gustavo](https://github.com/Luiz-GL-Campos)| 07/04/2024 |
+|  1.1   |       07/04/2024       |         Correções do artefato       | [Catlen Cleane](https://github.com/catlenc) |[Luiz Gustavo](https://github.com/Luiz-GL-Campos)| 07/04/2024 |
