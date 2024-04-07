@@ -45,4 +45,4 @@ O questionário incluiuum termo de consentimento para garantir a participação 
 
 | Versão | Data da alteração |             Alteração             |                   Responsável                   |                     Revisor                     | Data de revisão |
 | :----: | :---------------: | :-------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :-------------: |
-|  1.0   |       05/04       |         Criação do documento        | [Ana Beatriz](https://github.com/anabfs) |||
+|  1.0   |       05/04       |         Criação do documento        | [Ana Beatriz](https://github.com/anabfs) |[Catlen Cleane](https://github.com/catlenc)|07/04|

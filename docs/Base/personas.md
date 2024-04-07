@@ -33,7 +33,18 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 ### Persona Primária 1:
 
-|<font size="3"><p style="text-align: center">Figura 1- Persona Primária Ana Silva.</p></font><figure markdown>![Persona Ana Silva](../assets/img/personas/anaSilva.jpeg){:style="height:500px;width:500px"}<figcaption>|
+<div align="center">
+<img src="../assets/img/personas/anaSilva.jpeg" width="300" height="300">
+</div>
+
+<div align="center">
+
+<figcaption align='center'>
+    <b>Figura 01: Ana Silva - Persona Primária.</b>
+</figcaption>
+</div>
+
+<br>|
 |----|
 |- **Nome:** Ana Silva|
 |- **Gênero:** Feminino|
@@ -49,7 +60,18 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 ## Persona Primária 2:
 
-|<font size="3"><p style="text-align: center">Figura 2- Persona Primária Lucas Oliveira.</p></font><figure markdown>![Persona Lucas Oliveira](../assets/img/personas/lucasOliveira.jpeg){:style="height:500px;width:500px"}<figcaption>|
+<div align="center">
+<img src="../assets/img/personas/lucasOliveira.jpeg" width="300" height="300">
+</div>
+
+<div align="center">
+
+<figcaption align='center'>
+    <b>Figura 02: Lucas Oliveira - Persona Primária.</b>
+</figcaption>
+</div>
+
+<br>|
 |-----|
 |- **Nome:** Lucas Oliveira|
 |- **Gênero:** Masculino|
@@ -64,7 +86,18 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 ## Persona Secundária 1:
 
-|<font size="3"><p style="text-align: center">Figura 3- Persona Secundária João Santos.</p></font><figure markdown>![Persona João Santos](../assets/img/personas/joaoSantos.jpeg){:style="height:250px;width:500px"}<figcaption>|
+<div align="center">
+<img src="../assets/img/personas/joaoSantos.jpeg" width="300" height="300">
+</div>
+
+<div align="center">
+
+<figcaption align='center'>
+    <b>Figura 03: João Santos - Persona Secundária.</b>
+</figcaption>
+</div>
+
+<br>|
 |----|
 |- **Nome:** João Santos|
 |- **Gênero:** Masculino|
@@ -79,7 +112,18 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 ## Persona Secundária 2:
 
-|<font size="3"><p style="text-align: center">Figura 4- Persona Secundária Sofia Garcia.</p></font><figure markdown>![Persona Sofia Garcia](../assets/img/personas/sofiaGarcia.jpeg){:style="height:500px;width:500px"}<figcaption>|
+<div align="center">
+<img src="../assets/img/personas/sofiaGarcia.jpeg" width="300" height="300">
+</div>
+
+<div align="center">
+
+<figcaption align='center'>
+    <b>Figura 04: Sofia Garcia - Persona Secundária.</b>
+</figcaption>
+</div>
+
+<br>|
 |----|
 |- **Nome:** Sofia Garcia|
 |- **Gênero:** Feminino|
@@ -94,9 +138,20 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 ## Anti-Persona:
 
-|<font size="3"><p style="text-align: center">Figura 5- Anti-Persona Carlos Lima.</p></font><figure markdown>![Anti-Persona Carlos Lima](../assets/img/personas/carlosLima.jpeg){:style="height:500px;width:500px"}<figcaption>|
+<div align="center">
+<img src="../assets/img/personas/carlaLima.jpeg" width="300" height="300">
+</div>
+
+<div align="center">
+
+<figcaption align='center'>
+    <b>Figura 05: Carla Lima - Anti-persona.</b>
+</figcaption>
+</div>
+
+<br>|
 |----|
-|- **Nome:** Carlos Lima|
+|- **Nome:** Carla Lima|
 |- **Gênero:** Masculino|
 |- **Idade:** 44 anos|
 |- **Escolaridade:** Ensino Superior|
@@ -111,9 +166,18 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 </div>
 <br>
 
+## Referências Bibliográficas
+
+> [1] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> 
+> [2] This-Person-Does-not-Exist.com Dispónivel em: <https://this-person-does-not-exist.com/pt>.
+> 
+
+
 
 ## Histórico de Versão
 
 | Versão | Data da alteração |             Alteração             |                   Responsável                   |                     Revisor                     | Data de revisão |
 | :----: | :---------------: | :-------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :-------------: |
 |  1.0   |       06/04       |         Criação do documento        | [Catlen Cleane](https://github.com/catlenc) |||
+|  1.1  |       07/04       |         Correções do artefato        | [Catlen Cleane](https://github.com/catlenc) |||
