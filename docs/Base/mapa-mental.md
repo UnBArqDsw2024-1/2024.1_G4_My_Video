@@ -25,7 +25,7 @@ Mapa Mental é um poderoso método que visa auxiliar no armazenamento, organiza�
 
 #### Processo
 
-Usando uma plataforma como referencia, foi usada a técnica de observação para entender e extrair as principais funcionalidades e requisitos de uma plataforma web de vídeo.
+Usando uma plataforma como referência, foi usada a técnica de observação para entender e extrair as principais funcionalidades e requisitos de uma plataforma web de vídeo.
 Com base nesse exercício foi possível separar as funcionalidades em dois grupos principais, sendo eles:
 
 - <strong>Busca de vídeos</strong>:
