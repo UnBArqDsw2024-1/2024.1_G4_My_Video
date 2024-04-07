@@ -33,7 +33,7 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 ### Persona Primária 1:
 
-<div align="center">
+|<div align="center">
 <img src="../assets/img/personas/anaSilva.jpeg" width="300" height="300">
 </div>
 
@@ -60,7 +60,7 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 ## Persona Primária 2:
 
-<div align="center">
+|<div align="center">
 <img src="../assets/img/personas/lucasOliveira.jpeg" width="300" height="300">
 </div>
 
@@ -86,7 +86,7 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 ## Persona Secundária 1:
 
-<div align="center">
+|<div align="center">
 <img src="../assets/img/personas/joaoSantos.jpeg" width="300" height="300">
 </div>
 
@@ -112,7 +112,7 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 ## Persona Secundária 2:
 
-<div align="center">
+|<div align="center">
 <img src="../assets/img/personas/sofiaGarcia.jpeg" width="300" height="300">
 </div>
 
@@ -138,7 +138,7 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 ## Anti-Persona:
 
-<div align="center">
+|<div align="center">
 <img src="../assets/img/personas/carlaLima.jpeg" width="300" height="300">
 </div>
 
