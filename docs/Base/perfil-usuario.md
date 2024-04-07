@@ -51,3 +51,4 @@ O questionário incluiu um termo de consentimento para garantir a participação
 | :----: | :---------------: | :-------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :-------------: |
 |  1.0   |       05/04       |         Criação do documento        | [Ana Beatriz](https://github.com/anabfs) |[Catlen Cleane](https://github.com/catlenc)|07/04|
 |  1.1   |       07/04       |         Adição da referência bibliográfica       | [Ana Beatriz](https://github.com/anabfs) | [Ana Rocha](https://github.com/anaaroch) | 07/04 |
+
