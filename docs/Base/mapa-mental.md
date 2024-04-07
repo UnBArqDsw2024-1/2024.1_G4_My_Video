@@ -21,7 +21,7 @@ Mapa Mental é um poderoso método que visa auxiliar no armazenamento, organiza�
 
 ## Artefatos
 
-### Mapa Mental 1
+### Mapa Mental
 
 #### Processo
 
@@ -37,7 +37,7 @@ Com base nesse exercício foi possível separar as funcionalidades em dois grupo
 
 <center>
 <div style="left: 0; width: 100%; height: 780px; position: relative;"><iframe src="https://lucid.app/embeds/link?document=e5204cda-dd9e-468e-8552-f8befa2516a7&clientId=2BiVMkDT0QXFJfn1y3Prdd3Tm3V1LiSCW1c9VkAi" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
-<p> Mapa Mental 1 (Fonte:  Marcelo Magalhães ), 2024).</a></p>
+<p> Mapa Mental (Fonte:  Marcelo Magalhães ), 2024).</a></p>
 </center>
 
 ## Requisitos elicitados
@@ -88,5 +88,5 @@ Com base no Mapa Mental, foi possível elicitar os seguintes requisitos:
 | Versão | Data da alteração |                      Alteração                       |                   Responsável                    | Revisor | Data de revisão |
 | :----: | :---------------: | :--------------------------------------------------: | :----------------------------------------------: | :-----: | :-------------: |
 |  1.0   |    05/04/2024     |                 Criação do documento                 | [Marcelo Magalhães](https://github.com/marrcelo) | [Luiz Gustavo](https://github.com/Luiz-GL-Campos) | 07/04/2024 |
-|  1.1   |    05/04/2024     |                Artefato Mapa mental 1                | [Marcelo Magalhães](https://github.com/marrcelo) | [Luiz Gustavo](https://github.com/Luiz-GL-Campos) | 07/04/2024 |
-|  1.1   |    05/04/2024     | Adição dos Requisitos elicitados com o Mapa mental 1 | [Marcelo Magalhães](https://github.com/marrcelo) | [Luiz Gustavo](https://github.com/Luiz-GL-Campos) |07/04/2024  |
+|  1.1   |    05/04/2024     |                Artefato mapa mental                  | [Marcelo Magalhães](https://github.com/marrcelo) | [Luiz Gustavo](https://github.com/Luiz-GL-Campos) | 07/04/2024 |
+|  1.1   |    05/04/2024     | Adição dos Requisitos elicitados com o mapa mental   | [Marcelo Magalhães](https://github.com/marrcelo) | [Luiz Gustavo](https://github.com/Luiz-GL-Campos) |07/04/2024  |
