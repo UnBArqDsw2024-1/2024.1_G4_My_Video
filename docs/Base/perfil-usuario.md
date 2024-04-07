@@ -35,7 +35,7 @@ O questionário incluiuum termo de consentimento para garantir a participação 
 
 ### Quadro Visual do Resultado do Questionário
 
-<iframe title="ARQ-Perfil" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=3b98a7d9-0c7c-4356-920c-eb6d8b12f2ca&autoAuth=true&ctid=eb090420-444c-43f7-91f2-4b8da6bfe8e1" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="ARQ-Perfil" width="1140" height="541.25" src="https://app.powerbi.com/view?r=eyJrIjoiYmExYWJjYWEtMzkzYi00YWFlLThjOTAtOTA2ZGYwY2UzMGFhIiwidCI6ImViMDkwNDIwLTQ0NGMtNDNmNy05MWYyLTRiOGRhNmJmZThlMSJ9" frameborder="0" allowFullScreen="true"></iframe>
 <div align="center">Figura 1 - Resultado do Questionário</div>
 </div>
 <br>
