@@ -21,37 +21,6 @@ Reunião realizada no Microsoft Teams.
 - Luiz Gustavo Lopes Campos 
 - Marcelo Ferreira Magalhães Júnior  
 
-## Início e término
-
-Na tabela 1 consta o horário de início e o horário de término previsto da reunião, assim como o horário que foi efetivamente realizado.
-
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Horários</p></font>
-
-<table>
-    <thead>
-        <tr>
-            <th></th>
-            <th>Hora de Início</th>
-            <th>Hora de Término</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Previsto</td>
-            <td>20:00</td>
-            <td>20:45</td>
-        </tr>
-        <tr>
-            <td>Realizado</td>
-            <td>xx:xx</td>
-            <td>xx:xx</td>
-        </tr>
-    </tbody>
-</table>
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/xxxxx">xxxxx</a>, 2023</p></font>
-</div>
 
 ## Pauta
 
