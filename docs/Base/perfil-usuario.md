@@ -17,7 +17,7 @@ Este documento visa investigar o perfil dos usuários de serviços de streaming,
 <div align="justify">
 O grupo optou por utilizar um questionário como método de coleta de dados para investigar o perfil dos usuários de serviços de streaming. O questionário foi elaborado com a ferramenta <a href="https://forms.office.com/">Forms</a>.
 
-O questionário incluiuum termo de consentimento para garantir a participação voluntária e consciente dos respondentes e as seguintes perguntas:
+O questionário incluiu um termo de consentimento para garantir a participação voluntária e consciente dos respondentes e as seguintes perguntas:
 
 1. Idade
 2. Grau de Escolaridade
