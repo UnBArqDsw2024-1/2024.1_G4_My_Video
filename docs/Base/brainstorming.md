@@ -46,7 +46,7 @@ Para realizar o brainstorming coletivamente, utilizamos o Teams como plataforma 
 ### Requisitos Elicitados
 **Fluxo de assistir a um vídeo:**
 
-| ID | Requisito |
+| <p align="center">ID</p> | <p align="center">Requisito</p> |
 | :--: | :-------------------------------------------------: |
 | RF01 | O usuário deve ser capaz de definir a qualidade do vídeo. |
 | RF02 | Os usuários devem ter a opção de ativar legendas, além de escolher seu idioma. |
@@ -60,10 +60,6 @@ Para realizar o brainstorming coletivamente, utilizamos o Teams como plataforma 
 **Fluxo de Conta/Login:**
 
 | <p align="center">ID</p> | <p align="center">Requisito</p> |
-| -- | ----------------------------------------------- |
-| ID | Requisito |
-| :--: | :-----------------------------------------------: |
-| RF08 | A criação de conta deve ser simplificada e intuitiva para os usuários. |
 | RF09 | Os usuários devem ser capazes de cadastrar e salvar dados como login, senha, nome, e-mail, data de nascimento e status da assinatura. |
 | RF10 | A plataforma deve permitir a criação de vários perfis dentro de uma mesma conta. |
 | RF11 | Os usuários devem ter a capacidade de configurar sua conta, incluindo nome e avatar. |
@@ -78,10 +74,6 @@ Para realizar o brainstorming coletivamente, utilizamos o Teams como plataforma 
 | <p align="center">ID</p> | <p align="center">Requisito</p> |
 | -- | ----------------------------------------------- |
 | RF17 | Os usuários devem poder buscar vídeos pelo título. |
-| ID | Requisito |
-| :--: | :-----------------------------------------------: |
-| RF16 | Os usuários devem poder buscar vídeos pelo título. |
-| RF17 | Os usuários devem poder filtrar conteúdo por personagens, filmes, séries, em alta, minha lista e idiomas. |
 | RF18 | Recomendações personalizadas devem ser oferecidas com base nas preferências do usuário. |
 | RF19 | Deve haver uma seção dedicada às novidades, exibindo os últimos conteúdos adicionados. |
 | RF20 | A plataforma deve permitir que o usuário retome a reprodução de um vídeo de onde parou anteriormente. |
@@ -101,16 +93,7 @@ Para realizar o brainstorming coletivamente, utilizamos o Teams como plataforma 
 | RF29 | Os usuários devem poder selecionar vídeos para assistir posteriormente e adicioná-los a uma lista personalizada. |
 | RF30 | Os usuários devem ser capazes de remover itens da lista. |
 | RF31 | A plataforma deve oferecer recomendações personalizadas com base no conteúdo da lista. |
-| ID | Requisito |
-| :--: | :-----------------------------------------------: |
-| RF21 | Os usuários devem poder selecionar vídeos para assistir posteriormente e adicioná-los a uma lista personalizada. |
 
-
-| ID | Requisito |
-| :--: | :-----------------------------------------------: |
-| RF22 | Os usuários devem poder avaliar conteúdos como "tenho interesse" ou "não tenho interesse". |
-| RF23 | A plataforma deve fornecer na tela principal uma lista de recomendações com base nos interesses do usuário. |
-| RF24 | Os usuários devem poder visualizar na tela principal conteúdos em alta, ou seja, os mais populares ou mais assistidos. |
 
 ## Histórico de Versão
 
@@ -120,5 +103,5 @@ Para realizar o brainstorming coletivamente, utilizamos o Teams como plataforma 
 |  1.1   |       04/04       |         Adiciona metodologia       | [Caio Santos](https://github.com/caiobsantos) |[Breno Yuri](https://github.com/YuriBre)|07/04|
 |  1.2   |       05/04       |         Adiciona quadro do miro       | [Caio Santos](https://github.com/caiobsantos) |[Breno Yuri](https://github.com/YuriBre)|07/04|
 |  1.3   |       07/04       |         Adiciona alguns requisitos       | [Caio Santos](https://github.com/caiobsantos) |[Breno Yuri](https://github.com/YuriBre)|07/04|
-|  1.4   |       07/04       |         Adiciona alguns requisitos       | [Breno Yuri](https://github.com/YuriBre) | [Ana Rocha](https://github.com/anaaroch) | 07/04 ||
+|  1.4   |       07/04       |         Adiciona alguns requisitos       | [Breno Yuri](https://github.com/YuriBre) | [Ana Rocha](https://github.com/anaaroch) | 07/04 |
 |  1.5   |       07/04       |         Adiciona mais requisitos       | [Caio Santos](https://github.com/caiobsantos) |||
