@@ -1,4 +1,4 @@
-# My_Video
+# My Video
 
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 04<br>
@@ -26,8 +26,25 @@ My_Video é uma plataforma de streaming online que oferece uma ampla variedade d
 
 Este projeto tem como objetivo elaborar um plano de arquitetura de software para My_Video, com enfoque educacional. Serão explorados os fluxos desde a criação de perfis de usuário até a experiência de sugestão, busca e reprodução de conteúdos. Além disso, serão considerados outros processos relevantes para a melhor compreeensão desta plataforma de streaming.
 
-## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
-Adicione 2 ou mais screenshots em termos de artefatos da Primeira Entrega.
+## Screenshots Primeira Entrega
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyornysbXo6tzhGPbo0GS2k%2FMyVideo---Arquitetura%3Ftype%3Ddesign%26node-id%3D1-4%26t%3DOOrib65rF4N1cmUD-1%26scaling%3Dcontain%26page-id%3D0%253A1%26mode%3Ddesign" allowfullscreen></iframe>
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Protótipo de Alta fidelidade 1</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b>Breno Yuri, Gabriel da Silva, Lucas Andrade, Luiz Gustavo, Marcelo Magalhães, 2024</p></font>
+</div>
+<br>
+<br>
+
+
+![Rich Picture](./assets/img/rich_pictures/rich_picture1.png)
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 2:</b> Rich Picture</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b><a href="https://github.com/Frans6">Jefferson França</a>, 2024</p></font>
+</div>
+
 
 <!-- ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 Adicione 2 ou mais screenshots em termos de artefatos da Segunda Entrega.
@@ -38,11 +55,11 @@ Adicione 2 ou mais screenshots em termos de artefatos da Terceira Entrega.
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 Adicione 2 ou mais screenshots em termos de artefatos da Quarta Entrega. -->
 
-## Descritivo dos Principais Aspectos Técnicos 
+<!-- ## Descritivo dos Principais Aspectos Técnicos 
 **Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
 **Principais Linguagens Utilizadas e/ou Pretendidas**: xxxxxx<br>
 **Principais Tecnologias Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>
+**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br> -->
 
 <!-- ## Há algo a ser executado?
 
@@ -63,3 +80,4 @@ Quaisquer outras informações adicionais podem ser descritas nessa seção. -->
 |  1.0   |       02/04/2024  |   Criação do documento            | [Caio Santos](https://github.com/caiobsantos)   | [Ana Rocha](https://github.com/anaaroch)         | 04/04/2024 |
 |  1.1   |       04/04/2024  |   Inserindo nomes e matrículas    | [Gabriel Rosa](https://github.com/gabrielrosa09)| [Ana Rocha](https://github.com/anaaroch)         | 04/04/2024 |
 |  1.2   |       04/04/2024  |   Preenchimento do Sobre          | [Ana Rocha](https://github.com/anaaroch)        | [Luiz Gustavo](https://github.com/Luiz-GL-Campos)| 07/04/2024 |
+|  1.3   |       07/04/2024  |   Adição do protótipo de alta fidelidade e do Rich Picture  | [Caetano](https://github.com/caeslucio)        | [Ana Rocha](https://github.com/anaaroch)| 07/04/2024 |
