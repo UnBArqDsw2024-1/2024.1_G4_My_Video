@@ -33,7 +33,7 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 |Persona Primária 1||
 |:---|:---|
-| **Foto**|<div style="text-align:center;"><img src="../assets/img/personas/anaSilva.jpeg" alt="Ana Silva" style="height:200px;width:200px;"><p style="font-size:12px;">Figura 1: Ana Silva</p></div>|
+| **Foto**|![](../assets/img/personas/anaSilva.jpeg)<p style="font-size:12px;">Figura 1: Ana Silva</p></div>|
 | **Nome**| Ana Silva|
 | **Gênero**| Feminino|
 | **Idade**| 23 anos|
@@ -50,7 +50,7 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 |Persona Primária 2||
 |:---|:---|
-| **Foto**|<div style="text-align:center;"><img src="../assets/img/personas/lucasOliveira.jpeg" alt="Lucas Oliveira" style="height:200px;width:200px;"><p style="font-size:12px;">Figura 2: Lucas Oliveira</p></div>|
+| **Foto**|![](../assets/img/personas/lucasOliveira.jpeg)<p style="font-size:12px;">Figura 2: Lucas Oliveira</p></div>|
 | **Nome**| Lucas Oliveira|
 | **Gênero**| Masculino|
 | **Idade**| 30 anos|
@@ -67,7 +67,7 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 |Persona Secundária 1||
 |:---|:---|
-| **Foto**|<div style="text-align:center;"><img src="../assets/img/personas/joaoSantos.jpeg" alt="João Santos" style="height:200px;width:200px;"><p style="font-size:12px;">Figura 3: João Santos</p></div>|
+| **Foto**|![](../assets/img/personas/joaoSantos.jpeg)<p style="font-size:12px;">Figura 3: João Santos</p></div>|
 | **Nome**| João Santos|
 | **Gênero**| Masculino|
 | **Idade**| 19 anos|
@@ -84,7 +84,7 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 |Persona Secundária 2||
 |:---|:---|
-| **Foto**|<div style="text-align:center;"><img src="../assets/img/personas/sofiaGarcia.jpeg" alt="Sofia Garcia" style="height:200px;width:200px;"><p style="font-size:12px;">Figura 4: Sofia Garcia</p></div>|
+| **Foto**|![](../assets/img/personas/sofiaGarcia.jpeg)<p style="font-size:12px;">Figura 4: Sofia Garcia</p></div>|
 | **Nome**| Sofia Garcia|
 | **Gênero**| Feminino|
 | **Idade**| 28 anos|
@@ -101,7 +101,7 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 
 |Anti-Persona||
 |:---|:---|
-| **Foto**|<div style="text-align:center;"><img src="../assets/img/personas/carlaLima.jpeg" alt="Sofia Garcia" style="height:200px;width:200px;"><p style="font-size:12px;">Figura 5: Carla Lima</p></div>|
+| **Foto**|![](../assets/img/personas/carlaLima.jpeg)<p style="font-size:12px;">Figura 5: Carla Lima</p></div>|
 | **Nome**| Carla Lima|
 | **Gênero**| Feminino|
 | **Idade**| 44 anos|
@@ -133,4 +133,4 @@ A criação das personas foi baseada na análise dos dados fornecidos por um que
 | :----: | :---------------: | :-------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :-------------: |
 |  1.0   |       06/04/2024       |         Criação do documento        | [Catlen Cleane](https://github.com/catlenc) |[Luiz Gustavo](https://github.com/Luiz-GL-Campos)| 07/04/2024 |
 |  1.1   |       07/04/2024       |         Correções do artefato       | [Catlen Cleane](https://github.com/catlenc) |[Luiz Gustavo](https://github.com/Luiz-GL-Campos)| 07/04/2024 |
-|  1.2   |       07/04/2024       |         Alteração nas tabelas       | [Ana Beatriz](https://github.com/anabfs) |||
+|  1.2   |       07/04/2024       |         Alteração nas tabelas       | [Ana Beatriz](https://github.com/anabfs) |[Breno Yuri](https://github.com/YuriBre)|07/04/2024|
