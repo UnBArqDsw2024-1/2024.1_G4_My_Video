@@ -42,4 +42,4 @@
   - [4.3. Participações - Arquitetura & Reutilização de Software](/ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)
 
 - **Atas de reuniões**
-  - [Reunião 01 - 01/04/2024](/docs/ata_reuniao/reuniao1.md)
+  - [Reunião 01 - 01/04/2024](/ata_reuniao/reuniao1.md)
