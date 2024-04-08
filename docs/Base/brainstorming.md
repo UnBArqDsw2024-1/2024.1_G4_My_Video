@@ -1,4 +1,4 @@
-# Brainstorm
+# Brainstorming
 
 ## Introdução
 
@@ -40,14 +40,14 @@ Para realizar o brainstorming coletivamente, utilizamos o Teams como plataforma 
 </div>
 <br>
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVKYd0kvE=/?moveToViewport=-1562,-1316,1784,1270&embedId=352755302861" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
-<div align="center">Figura 1 - Brainstorm no Miro</div>
+<div align="center">Figura 1 - Brainstorming no Miro</div>
 </div>
 <br>
 
 ### Requisitos Elicitados
 **Fluxo de assistir a um vídeo:**
 
-| <p align="center">ID</p> | <p align="center">Requisito</p> |
+| ID | Requisito |
 | :--: | :-------------------------------------------------: |
 | RF01 | O usuário deve ser capaz de definir a qualidade do vídeo. |
 | RF02 | Os usuários devem ter a opção de ativar legendas, além de escolher seu idioma. |
@@ -60,7 +60,7 @@ Para realizar o brainstorming coletivamente, utilizamos o Teams como plataforma 
 **Fluxo de Conta/Login:**
 
 | ID | Requisito |
-| -- | ----------------------------------------------- |
+| :--: | :-----------------------------------------------: |
 | RF08 | A criação de conta deve ser simplificada e intuitiva para os usuários. |
 | RF09 | Os usuários devem ser capazes de cadastrar e salvar dados como login, senha, nome, e-mail, data de nascimento e status da assinatura. |
 | RF10 | A plataforma deve permitir a criação de vários perfis dentro de uma mesma conta. |
@@ -73,7 +73,7 @@ Para realizar o brainstorming coletivamente, utilizamos o Teams como plataforma 
 **Fluxo de Seleção/Busca:**
 
 | ID | Requisito |
-| -- | ----------------------------------------------- |
+| :--: | :-----------------------------------------------: |
 | RF16 | Os usuários devem poder buscar vídeos pelo título. |
 | RF17 | Os usuários devem poder filtrar conteúdo por personagens, filmes, séries, em alta, minha lista e idiomas. |
 | RF18 | Recomendações personalizadas devem ser oferecidas com base nas preferências do usuário. |
@@ -83,13 +83,13 @@ Para realizar o brainstorming coletivamente, utilizamos o Teams como plataforma 
 **Fluxo de Minha Lista:**
 
 | ID | Requisito |
-| -- | ----------------------------------------------- |
+| :--: | :-----------------------------------------------: |
 | RF21 | Os usuários devem poder selecionar vídeos para assistir posteriormente e adicioná-los a uma lista personalizada. |
 
 **Outros Fluxos:**
 
 | ID | Requisito |
-| -- | ----------------------------------------------- |
+| :--: | :-----------------------------------------------: |
 | RF22 | Os usuários devem poder avaliar conteúdos como "tenho interesse" ou "não tenho interesse". |
 | RF23 | A plataforma deve fornecer na tela principal uma lista de recomendações com base nos interesses do usuário. |
 | RF24 | Os usuários devem poder visualizar na tela principal conteúdos em alta, ou seja, os mais populares ou mais assistidos. |
@@ -102,4 +102,4 @@ Para realizar o brainstorming coletivamente, utilizamos o Teams como plataforma 
 |  1.1   |       04/04       |         Adiciona metodologia       | [Caio Santos](https://github.com/caiobsantos) |[Breno Yuri](https://github.com/YuriBre)|07/04|
 |  1.2   |       05/04       |         Adiciona quadro do miro       | [Caio Santos](https://github.com/caiobsantos) |[Breno Yuri](https://github.com/YuriBre)|07/04|
 |  1.3   |       07/04       |         Adiciona alguns requisitos       | [Caio Santos](https://github.com/caiobsantos) |[Breno Yuri](https://github.com/YuriBre)|07/04|
-|  1.4   |       07/04       |         Adiciona alguns requisitos       | [Breno Yuri](https://github.com/YuriBre) |||
+|  1.4   |       07/04       |         Adiciona alguns requisitos       | [Breno Yuri](https://github.com/YuriBre) | [Ana Rocha](https://github.com/anaaroch) | 07/04 |
