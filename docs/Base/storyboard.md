@@ -52,4 +52,4 @@ Com base nos storyboards propostos, podemos perceber algumas das funcionalidades
 
 | Versão | Data da alteração |             Alteração             |   Autor(es)   |           Revisor(es)       | Data de revisão |
 | :----: | :---------------: | :-------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :-------------: |
-|  1.0   |       04/04/2024       |         Criação do documento        | [Ana Rocha](https://github.com/anaaroch) e [Luiz Gustavo](https://github.com/Luiz-GL-Campos) |  |  |
+|  1.0   |       04/04/2024       |         Criação do documento        | [Ana Rocha](https://github.com/anaaroch) e [Luiz Gustavo](https://github.com/Luiz-GL-Campos) | [Gabriel Rosa](https://github.com/gabrielrosa09) | 07/04/2024 |

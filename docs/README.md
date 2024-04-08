@@ -29,14 +29,14 @@ Este projeto tem como objetivo elaborar um plano de arquitetura de software para
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 Adicione 2 ou mais screenshots em termos de artefatos da Primeira Entrega.
 
-## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
+<!-- ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 Adicione 2 ou mais screenshots em termos de artefatos da Segunda Entrega.
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 Adicione 2 ou mais screenshots em termos de artefatos da Terceira Entrega.
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
-Adicione 2 ou mais screenshots em termos de artefatos da Quarta Entrega.
+Adicione 2 ou mais screenshots em termos de artefatos da Quarta Entrega. -->
 
 ## Descritivo dos Principais Aspectos Técnicos 
 **Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
@@ -44,7 +44,7 @@ Adicione 2 ou mais screenshots em termos de artefatos da Quarta Entrega.
 **Principais Tecnologias Utilizadas e/ou Pretendidas**: xxxxxx<br>
 **Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>
 
-## Há algo a ser executado?
+<!-- ## Há algo a ser executado?
 
 ( ) SIM
 
@@ -53,13 +53,13 @@ Adicione 2 ou mais screenshots em termos de artefatos da Quarta Entrega.
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
 
 ## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
+Quaisquer outras informações adicionais podem ser descritas nessa seção. -->
 
 
 ## Histórico de Versão
 
-| Versão | Data da alteração |             Alteração             |   Autor(es)   |           Revisor(es)       | Data de revisão |
+| Versão | Data da alteração |             Alteração             |   Autor(es)                                     |           Revisor(es)                           | Data de revisão |
 | :----: | :---------------: | :-------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :-------------: |
-|  1.0   |       02/04/2024       |         Criação do documento        | [Caio Santos](https://github.com/caiobsantos) | [Ana Rocha](https://github.com/anaaroch) | 04/04/2024 |
-|  1.1   |       04/04/2024       |         Inserindo nomes e matrículas        | [Gabriel Rosa](https://github.com/gabrielrosa09) | [Ana Rocha](https://github.com/anaaroch) | 04/04/2024 |
-|  1.2   |       04/04/2024       |         Preenchimento do Sobre      | [Ana Rocha](https://github.com/anaaroch) |
+|  1.0   |       02/04/2024  |   Criação do documento            | [Caio Santos](https://github.com/caiobsantos)   | [Ana Rocha](https://github.com/anaaroch)         | 04/04/2024 |
+|  1.1   |       04/04/2024  |   Inserindo nomes e matrículas    | [Gabriel Rosa](https://github.com/gabrielrosa09)| [Ana Rocha](https://github.com/anaaroch)         | 04/04/2024 |
+|  1.2   |       04/04/2024  |   Preenchimento do Sobre          | [Ana Rocha](https://github.com/anaaroch)        | [Luiz Gustavo](https://github.com/Luiz-GL-Campos)| 07/04/2024 |
