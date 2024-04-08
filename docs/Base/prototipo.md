@@ -63,3 +63,4 @@ Vídeo 2: Validação do Protótipo (Fonte: Jefferson França, 2024).
 | :----: | :---------------: | :-------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :-------------: |
 |  1.0   |    07/04/2024     |         Criação do documento      | [Caio Santos](https://github.com/caiobsantos)     | [Luiz Gustavo](https://github.com/Luiz-GL-Campos) | 07/04/2024 |
 |  1.1   |    07/04/2024     |         Adição do protótipo       | [Luiz Gustavo](https://github.com/Luiz-GL-Campos) | [Ana Rocha](https://github.com/anaaroch) | 07/04 |
+|  1.2   |    07/04/2024     |         Adição das entrevistas       | [Jefferson França](https://github.com/Frans6) | [Ana Rocha](https://github.com/anaaroch) | 07/04 |
