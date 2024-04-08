@@ -60,6 +60,7 @@ Para realizar o brainstorming coletivamente, utilizamos o Teams como plataforma 
 **Fluxo de Conta/Login:**
 
 | <p align="center">ID</p> | <p align="center">Requisito</p> |
+| -- | ----------------------------------------------- |
 | RF09 | Os usuários devem ser capazes de cadastrar e salvar dados como login, senha, nome, e-mail, data de nascimento e status da assinatura. |
 | RF10 | A plataforma deve permitir a criação de vários perfis dentro de uma mesma conta. |
 | RF11 | Os usuários devem ter a capacidade de configurar sua conta, incluindo nome e avatar. |
@@ -104,4 +105,4 @@ Para realizar o brainstorming coletivamente, utilizamos o Teams como plataforma 
 |  1.2   |       05/04       |         Adiciona quadro do miro       | [Caio Santos](https://github.com/caiobsantos) |[Breno Yuri](https://github.com/YuriBre)|07/04|
 |  1.3   |       07/04       |         Adiciona alguns requisitos       | [Caio Santos](https://github.com/caiobsantos) |[Breno Yuri](https://github.com/YuriBre)|07/04|
 |  1.4   |       07/04       |         Adiciona alguns requisitos       | [Breno Yuri](https://github.com/YuriBre) | [Ana Rocha](https://github.com/anaaroch) | 07/04 |
-|  1.5   |       07/04       |         Adiciona mais requisitos       | [Caio Santos](https://github.com/caiobsantos) |||
+|  1.5   |       07/04       |         Adiciona mais requisitos       | [Caio Santos](https://github.com/caiobsantos) | [Ana Rocha](https://github.com/anaaroch) | 07/04 |
