@@ -18,7 +18,7 @@ O objetivo principal do brainstorming é gerar o maior número possível de idei
 Para realizar o brainstorming coletivamente, utilizamos o Teams como plataforma de comunicação para que cada um pudesse compartilhar suas ideias com o grupo.
 
 1. O primeiro passo foi analisar entender o projeto como um todo e definir os principais fluxos presentes na plataforma da Netflix. Isso envolveu uma análise dos serviços e funcionalidades oferecidos pela plataforma. Durante essa fase, identificamos e definimos os principais fluxos de interação presentes na plataforma. Os seguintes fluxos foram definidos: 
-- Assistir vídeos;
+- Visualização de vídeos;
 - Criação de conta / Login;
 - Seleção / Busca de vídeos;
 - Criação de playlist;
@@ -106,3 +106,4 @@ Para realizar o brainstorming coletivamente, utilizamos o Teams como plataforma 
 |  1.3   |       07/04       |         Adiciona alguns requisitos       | [Caio Santos](https://github.com/caiobsantos) |[Breno Yuri](https://github.com/YuriBre)|07/04|
 |  1.4   |       07/04       |         Adiciona alguns requisitos       | [Breno Yuri](https://github.com/YuriBre) | [Ana Rocha](https://github.com/anaaroch) | 07/04 |
 |  1.5   |       07/04       |         Adiciona mais requisitos       | [Caio Santos](https://github.com/caiobsantos) | [Ana Rocha](https://github.com/anaaroch) | 07/04 |
+|  1.6   |       08/04       |         Corrige vocabulário       | [Breno Yuri](https://github.com/YuriBre) |  |  |
