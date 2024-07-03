@@ -14,6 +14,8 @@ A seguir estão os storyboards desenvolvidos para a plataforma My_Video, numerad
 
 A Figura 1 é referente ao Storyboard onde o usuário realiza a tarefa de assistir a um filme na plataforma My_Video.
 
+<a id="figura1"></a>
+
 ![StoryAssistir](../assets/img/storyboards/1assistir.png)
 
 <div style="text-align: center;">
@@ -21,6 +23,8 @@ A Figura 1 é referente ao Storyboard onde o usuário realiza a tarefa de assist
 </div>
 
 A Figura 2 apresenta o Storyboard onde o usuário executa a tarefa de adicionar um filme na lista "Assistir Depois".
+
+<a id="figura2"></a>
 
 ![StoryListar](../assets/img/storyboards/2lista.png)
 
@@ -30,6 +34,8 @@ A Figura 2 apresenta o Storyboard onde o usuário executa a tarefa de adicionar 
 
 A Figura 3 corresponde ao Storyboard em que o usuário recebe sugestões de filme e série da própria plataforma My_Video, com base em filmes e séries já assistidos e bem avaliados pelo usuário.
 
+<a id="figura3"></a>
+
 ![StorySugestao](../assets/img/storyboards/3sugestao.png)
 
 <div style="text-align: center;">
@@ -37,6 +43,8 @@ A Figura 3 corresponde ao Storyboard em que o usuário recebe sugestões de film
 </div>
 
 A Figura 4 refere-se ao Storyboard em que o usuário realiza uma busca por um título na plataforma My_Video.
+
+<a id="figura4"></a>
 
 ![StoryBuscar](../assets/img/storyboards/4buscar.png)
 
