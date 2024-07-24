@@ -1,7 +1,7 @@
-import { Filme } from "../../../docs/PadroesDeProjeto/AbstractFactory/src/filme/filme";
-import { Serie } from "../../../docs/PadroesDeProjeto/AbstractFactory/src/serie/serie";
-import { MobileFilme } from "../../../docs/PadroesDeProjeto/AbstractFactory/src/filme/mobile-filme";
-import { MobileSerie } from "../../../docs/PadroesDeProjeto/AbstractFactory/src/serie/mobile-serie";
+import { Filme } from "../filme/filme";
+import { Serie } from "../serie/serie";
+import { MobileFilme } from "../filme/mobile-filme";
+import { MobileSerie } from "../serie/mobile-serie";
 import { MyVideo } from "./my-video";
 
 export class PlataformaMobileApp implements MyVideo {

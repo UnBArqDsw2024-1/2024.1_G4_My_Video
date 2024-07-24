@@ -1,5 +1,5 @@
-import { Filme } from '../../../docs/PadroesDeProjeto/AbstractFactory/src/filme/filme';
-import { Serie } from '../../../docs/PadroesDeProjeto/AbstractFactory/src/serie/serie';
+import { Filme } from '../filme/filme';
+import { Serie } from '../serie/serie';
 
 export interface MyVideo {
     criarFilme(titulo: string, descricao: string, ano: number, genero: string): Filme;

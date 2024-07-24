@@ -1,0 +1,17 @@
+{
+  "name": "command",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "tsx src/main.ts",
+    "watch": "tsx watch src/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.8",
+    "tsx": "^4.9.1",
+    "typescript": "^5.4.5"
+  }
+}
