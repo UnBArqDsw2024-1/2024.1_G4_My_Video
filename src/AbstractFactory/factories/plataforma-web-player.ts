@@ -1,7 +1,7 @@
-import { Filme } from "../../../docs/PadroesDeProjeto/AbstractFactory/src/filme/filme";
-import { Serie } from "../../../docs/PadroesDeProjeto/AbstractFactory/src/serie/serie";
-import { WebFilme } from "../../../docs/PadroesDeProjeto/AbstractFactory/src/filme/web-filme";
-import { WebSerie } from "../../../docs/PadroesDeProjeto/AbstractFactory/src/serie/web-serie";
+import { Filme } from "../filme/filme";
+import { Serie } from "../serie/serie";
+import { WebFilme } from "../filme/web-filme";
+import { WebSerie } from "../serie/web-serie";
 import { MyVideo } from "./my-video";
 
 export class PlataformaWebPlayer implements MyVideo {
