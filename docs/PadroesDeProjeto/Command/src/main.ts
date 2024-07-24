@@ -2,31 +2,63 @@ import { IndexarConteudoComando } from "./commands/IndexarConteudoComando";
 import { SalvarEpsodioComando } from "./commands/SalvarEpsodioComando";
 import { SalvarFilmeComando } from "./commands/SalvarFilmeComando";
 import { Conteudo } from "./conteudo/Conteudo";
-import { Filme } from "./filme/Filme";
-import { conteudos, DadosConteudo } from "./fixtures/fixtures";
-import { Serie } from "./serie/Serie";
+import { DadosFilme, Filme } from "./filme/Filme";
+import { filmes, series } from "./fixtures/fixtures";
+import { DadosSerie, Serie } from "./serie/Serie";
 
-// Example usage
-export class ComandoExamplo {
-  public static adicionarConteudo(conteudo: DadosConteudo): void {
-    // Create devices
-    const serie: Serie = new Serie();
-    const filme: Filme = new Filme();
+export class ComandoExemplo {
+  public static adicionarConteudo(
+    tipo: "Filme" | "Serie",
+    conteudo: DadosFilme | DadosSerie
+  ): void {
+    const c = new Conteudo();
 
-    const salvarEpsodioComando = new SalvarEpsodioComando(serie);
-    const indexarConteudoSerieComando = new IndexarConteudoComando(serie);
+    if (this.ehFilme(tipo, conteudo)) {
+      const filme: Filme = new Filme(conteudo);
+      const salvarFilmeComando = new SalvarFilmeComando(filme);
+      c.setCommand(salvarFilmeComando);
+      c.executarComando();
 
-    const salvarFilmeComando = new SalvarFilmeComando(filme);
-    const indexarConteudoFilmeComando = new IndexarConteudoComando(filme);
+      const indexarConteudoFilmeComando = new IndexarConteudoComando(filme);
+      c.setCommand(indexarConteudoFilmeComando);
+      c.executarComando();
 
-    const conteudo = new Conteudo();
+      return;
+    } else if (this.ehSerie(tipo, conteudo)) {
+      const serie: Serie = new Serie(conteudo);
+      const salvarEpsodioComando = new SalvarEpsodioComando(serie);
+      c.setCommand(salvarEpsodioComando);
+      c.executarComando();
 
-    // Set and execute commands
-    conteudo.setCommand(salvarEpsodioComando);
-    conteudo.executarComando(); // Outputs: Epsodio salvo.
+      const indexarConteudoSerieComando = new IndexarConteudoComando(serie);
+      c.setCommand(indexarConteudoSerieComando);
+      c.executarComando();
+
+      return;
+    }
+
+    throw new Error(`${tipo} não é um tipo de conteudo valido.`);
+  }
+
+  private static ehFilme(
+    tipo: "Filme" | "Serie",
+    conteudo: DadosFilme | DadosSerie
+  ): conteudo is DadosFilme {
+    return tipo === "Filme" && "dataLancamento" in conteudo;
+  }
+
+  private static ehSerie(
+    tipo: "Filme" | "Serie",
+    conteudo: DadosFilme | DadosSerie
+  ): conteudo is DadosSerie {
+    return tipo === "Serie" && "numeroEpsodio" in conteudo;
   }
 }
 
-conteudos.forEach((conteudo) => {
-  ComandoExamplo.adicionarConteudo();
+filmes.forEach((filme) => {
+  ComandoExemplo.adicionarConteudo("Filme", filme);
+});
+
+series.forEach((serie) => {
+  ComandoExemplo.adicionarConteudo("Serie", serie);
 });

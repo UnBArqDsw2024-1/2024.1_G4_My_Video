@@ -1,7 +1,6 @@
 import { Filme } from "../filme/Filme";
 import { Comando } from "./Comando";
 
-// Concrete command for saving a movie content
 export class SalvarFilmeComando implements Comando {
   private filme: Filme;
   constructor(filme: Filme) {
