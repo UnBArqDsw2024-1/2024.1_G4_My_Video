@@ -36,12 +36,12 @@
 - **3. Padrões de Projeto**
 
   <!-- - [3. Desenho de Software (Padrões de Projeto)](/PadroesDeProjeto/3.PadroesDeProjeto.md) -->
-  - [3.1. Módulo Padrões de Projeto GRASPs](/PadroesDeProjeto/3.1.GRASPs.md)
+  - [3.1. Módulo Padrões de Projeto GoFs Criacionais](/PadroesDeProjeto/3.1.GoFsCriacionais.md)
     - [3.1.1 Factory Method](/PadroesDeProjeto/3.1.1%20Factory%20Method.md)
     - [3.1.2 Abstract Factory](/PadroesDeProjeto/3.1.2.AbstractFactory.md)
-  - [3.2. Módulo Padrões de Projeto GoFs](/PadroesDeProjeto/3.2.GoFs.md)
+  - [3.2. Módulo Padrões de Projeto GoFs Estruturais](/PadroesDeProjeto/3.2.GoFsEstruturais.md)
     - [3.2.1 Adapter](/PadroesDeProjeto/3.2.1%20Adapter.md)
-  - [3.3. Módulo Padrões de Projeto Extras](/PadroesDeProjeto/3.3.PadroesExtra.md)
+  - [3.3. Módulo Padrões de Projeto GoFs Comportamentais](/PadroesDeProjeto/3.3.GoFsComportamentais.md)
     - [3.3.1 Command](/PadroesDeProjeto/3.3.1.Command.md)
   - [3.4. Participações - Padrões de Projeto](/PadroesDeProjeto/3.4.ParticipacoesPadroes.md)
 
