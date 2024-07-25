@@ -1,10 +1,15 @@
-import java.util.ArrayList;
+import Serie from '../models/serie';
+import Filme from '../models/filme';
+import Temporada from '../models/temporada';
+import Episodio from '../models/episodio';
 
-public class FilmeAdapter extends Serie {
-    private Filme filme;
+class FilmeAdapter extends Serie {
+    private filme: Filme;
 
-    public FilmeAdapter(Filme filme) {
+    constructor(filme: Filme) {
+        super();
         this.filme = filme;
+
         // Configurar informações de Midia
         this.setTitulo(filme.getTitulo());
         this.setDescricao(filme.getDescricao());
@@ -16,33 +21,32 @@ public class FilmeAdapter extends Serie {
 
         // Configurar informações de Serie
         this.setNumeroTemporadas(1); // Como é um filme, consideramos uma única temporada
-        ArrayList<Temporada> temporadas = new ArrayList<>();
-        Temporada temporada = new Temporada();
+        const temporadas: Temporada[] = [];
+        const temporada = new Temporada();
         temporada.setNumero(1);
 
-        Episodio episodio = new Episodio();
+        const episodio = new Episodio();
         episodio.setTitulo(filme.getTitulo());
         episodio.setNumero(1);
         episodio.setDuracao(filme.getDuracao());
         episodio.setDescricao(filme.getDescricao());
 
-        ArrayList<Episodio> episodios = new ArrayList<>();
-        episodios.add(episodio);
+        const episodios: Episodio[] = [];
+        episodios.push(episodio);
         temporada.setEpisodios(episodios);
 
-        temporadas.add(temporada);
+        temporadas.push(temporada);
         this.setTemporadas(temporadas);
 
-        ArrayList<String> criadores = new ArrayList<>();
-        criadores.add(filme.getDiretor());
-        criadores.add(filme.getRoteirista());
+        const criadores: string[] = [];
+        criadores.push(filme.getDiretor());
+        criadores.push(filme.getRoteirista());
         this.setCriadores(criadores);
     }
 
-    @Override
-    public ArrayList<Temporada> listarTemporada() {
+    public listarTemporada(): Temporada[] {
         return this.getTemporadas();
     }
-
-    // Não precisamos sobrescrever os getters para numeroTemporadas e criadores
 }
+
+export default FilmeAdapter;
