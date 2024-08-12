@@ -19,7 +19,7 @@ export class AppController {
   async getUserById(@Param('id') id: string): Promise<User> {
     const user = await this.userService.user({ id: Number(id) });
 
-    if (!user) throw new NotFoundException(`User with id  ${id} not found.`);
+    if (!user) throw new NotFoundException(`User with id ${id} not found.`);
 
     return user;
   }
