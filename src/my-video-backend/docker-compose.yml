@@ -1,0 +1,40 @@
+version: '3.5'
+
+services:
+  db:
+    image: postgres
+    restart: always
+    environment:
+      - POSTGRES_PASSWORD=postgres
+    container_name: my-video-db
+    volumes:
+      - ./pgdata:/var/lib/postgresql/data
+    ports:
+      - '5433:5432'
+      
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: my-video-backend
+    ports:
+      - '3000:3000'
+    depends_on:
+      - db
+    volumes:
+      - ./src:/app/src
+
+  pgadmin:
+    image: dpage/pgadmin4
+    restart: always
+    container_name: my-video-pgadmin4
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=admin@admin.com
+      - PGADMIN_DEFAULT_PASSWORD=pgadmin4
+    ports:
+      - '5050:80'
+    depends_on:
+      - db
+
+ 
