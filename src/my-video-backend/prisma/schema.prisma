@@ -27,4 +27,5 @@ model Midia {
   description String
   debutYear   Int
   duration    Int
+  categories  String[]
 }

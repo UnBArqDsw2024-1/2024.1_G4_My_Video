@@ -4,7 +4,7 @@ node_modules
 /dist
 /node_modules
 /build
-/pgdata
+src/my-video-backend/pgdata
 src/my-video-backend/dist
 src/my-video-backend/node_modules
 src/my-video-backend/build
