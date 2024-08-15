@@ -1,0 +1,72 @@
+# Visão Lógica
+
+## Introdução
+
+<div style="text-align: justify;">
+A visão lógica de um software descreve a organização e a interação dos principais componentes do sistema em um nível abstrato, focando na estrutura e comportamento do software, sem se aprofundar em detalhes técnicos específicos, como linguagens de programação ou plataformas de infraestrutura. Essa visão fornece uma representação clara de como o software está organizado, destacando os principais módulos, suas responsabilidades e como eles se relacionam.
+
+Ao desenvolver a visão lógica, o objetivo é capturar a essência do sistema de maneira compreensível para todas as partes interessadas, desde a equipe técnica até os stakeholders de negócio. Essa visão atua como um ponto de referência para orientar decisões de design, garantir a coerência entre diferentes partes do sistema e alinhar a solução proposta com os objetivos funcionais e não funcionais do projeto.
+
+Uma visão lógica de um software de streaming identifica e descreve os principais módulos, como gerenciamento de usuários, catálogo de mídia, reprodução de conteúdo, controle de assinaturas, e sistemas de recomendação. Ela permite, ainda, visualizar como esses módulos se conectam, trocam informações e oferecem suporte às funcionalidades desejadas, independentemente das tecnologias ou frameworks específicos utilizados.
+
+</div>
+
+## Metodologia
+
+<div style="text-align: justify;">
+
+1. Compreensão dos Requisitos Arquiteturais
+
+Identificação de Casos de Uso Significativos: Foi feito um [Rich Picture](https://unbarqdsw2024-1.github.io/2024.1_G4_My_Video/#/Base/rich_picture).
+
+Análise dos Cenários: Foi feito um [StoryBoard](https://unbarqdsw2024-1.github.io/2024.1_G4_My_Video/#/Base/storyboard).
+
+2. Definição dos Componentes Lógicos
+
+Identificação das Classes de Design Importantes: Foi Listado em [Diagrama de Classes](https://unbarqdsw2024-1.github.io/2024.1_G4_My_Video/#/Modelagem/2.1.1.1.DiagramadeClasses).
+
+Organização em Camadas: Foi elaborado em [Diagrama de Pacotes](https://unbarqdsw2024-1.github.io/2024.1_G4_My_Video/#/Modelagem/2.1.1.2.DiagramadePacotes).
+
+3. Modelagem dos Cenários e Interações
+
+Diagramas de Interação: Foram feitos [Diagrama de Sequência](https://unbarqdsw2024-1.github.io/2024.1_G4_My_Video/#/Modelagem/2.1.2.1.DiagramadeSequencia) e [Diagrama de Colaboração](https://unbarqdsw2024-1.github.io/2024.1_G4_My_Video/#/Modelagem/2.1.2.3.DiagramadeComunicacao-Colaboracao)
+
+4. Refinamento e Estruturação da Visão Lógica
+
+Diagrama de Pacotes: Crie diagramas de pacotes organizados em camadas, com ênfase nos aspectos transversais e nas dependências entre subsistemas. Isso ajuda a visualizar a organização macro do sistema.
+
+Diagrama de Classes: Detalhe as classes mais importantes dentro de cada pacote, especificando suas responsabilidades, atributos e métodos. Inclua cardinalidades, semânticas e navegabilidades.
+
+5. Validação e Documentação da Visão
+
+Revisão Colaborativa: Realize uma revisão da visão lógica com a equipe e outras partes interessadas para garantir que a estrutura proposta esteja alinhada com os requisitos e expectativas.
+
+Documentação Detalhada: Documente a visão lógica em texto e diagramas, especificando a organização em camadas, as classes e suas interações. Use ferramentas de modelagem para representar a arquitetura visualmente.
+
+</div>
+
+## Refinamento e Estruturação da Visão Lógica
+
+### Diagrama De Pacotes
+
+
+
+
+
+## Conclusão
+
+<div style="text-align: justify;">
+ 
+</div>
+
+## Referências
+
+- SERRANO, Milene. Slide "MODELAGEM UML ViDINÂMICA". Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/2790248/mod_label/intro/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20Modelagem%20UML%20Din%C3%A2mica%20-%20Profa.%20Milene.pdf). Acesso em 06 jul. de 2024. </br>
+
+
+## Histórico de Versão
+
+| Versão | Data da alteração |            Alteração             |                                           Autor(es)                                           |                                                                   Revisor(es)                                                                    | Data de revisão |
+| :----: | :---------------: | :------------------------------: | :-------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: |
+|  1.0   |    15/08/2024     |    Introdução, Metodologia, Refinamento e Estruturação da Visão Lógica  | [Lucas Lobão](https://github.com/lucaslobao-18), [Catlen Cleane](https://github.com/catlenc) e [Gabriel Zaranza](https://github.com/GZaranza) | | |
+
