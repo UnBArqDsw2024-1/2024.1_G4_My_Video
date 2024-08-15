@@ -19,6 +19,8 @@ model User {
   password String
   name     String
   isActive Boolean
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 }
 
 model Midia {
@@ -28,4 +30,6 @@ model Midia {
   debutYear   Int
   duration    Int
   categories  String[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 }
