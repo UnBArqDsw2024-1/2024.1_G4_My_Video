@@ -1,5 +1,14 @@
-import { IsBoolean, IsEmail, IsNotEmpty, MinLength } from 'class-validator';
+import {
+  IsBoolean,
+  IsEmail,
+  IsIn,
+  IsNotEmpty,
+  IsString,
+  IsStrongPassword,
+  MinLength,
+} from 'class-validator';
 import { ApiProperty } from '@nestjs/swagger';
+import { UserTypes } from '@prisma/client';
 
 export class CreateUserDto {
   @ApiProperty({
@@ -11,10 +20,10 @@ export class CreateUserDto {
 
   @ApiProperty({
     description: 'Password of the user',
-    example: 'securePassword123',
+    example: 'strongPassword123*',
   })
   @IsNotEmpty()
-  @MinLength(6)
+  @IsStrongPassword()
   password: string;
 
   @ApiProperty({
@@ -31,4 +40,13 @@ export class CreateUserDto {
   })
   @IsBoolean()
   isActive: boolean = true;
+
+  @IsString()
+  @IsIn(['USER', 'ADMIN'])
+  @ApiProperty({
+    description: 'User type',
+    example: 'USER',
+    enum: UserTypes,
+  })
+  type: UserTypes = 'USER';
 }

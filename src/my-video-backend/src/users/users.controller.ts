@@ -9,14 +9,17 @@ import {
   NotFoundException,
   UseGuards,
   ForbiddenException,
+  BadRequestException,
+  HttpCode,
+  HttpStatus,
 } from '@nestjs/common';
 import { UsersService } from './users.service';
 import { CreateUserDto } from './dto/create-user.dto';
 import { UpdateUserDto } from './dto/update-user.dto';
-import { ApiBearerAuth, ApiTags } from '@nestjs/swagger';
-import { UserIdParam } from './dto/user-id.dto';
+import { ApiBearerAuth, ApiParam, ApiTags } from '@nestjs/swagger';
 import { AuthGuard } from 'src/auth/auth.guard';
 import { User } from 'src/decorators/user.decorator';
+import { UuidParam } from 'src/shared/uuid-param.dto';
 
 interface ReqUser {
   sub: string;
@@ -31,14 +34,26 @@ export class UsersController {
 
   @Post()
   async create(@Body() createUserDto: CreateUserDto) {
-    // eslint-disable-next-line @typescript-eslint/no-unused-vars
-    const { password, ...user } = await this.usersService.create(createUserDto);
+    const user = await this.usersService.findOne({
+      email: createUserDto.email,
+    });
 
-    return user;
+    if (user) {
+      throw new BadRequestException(
+        `User with email ${createUserDto.email} already exists.`,
+      );
+    }
+
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
+    const { password, ...newUser } =
+      await this.usersService.create(createUserDto);
+
+    return newUser;
   }
 
   @Get(':id')
-  async findOne(@Param() { id }: UserIdParam) {
+  @ApiParam({ name: 'id', type: 'string' })
+  async findOne(@Param() { id }: UuidParam) {
     const user = await this.usersService.findOne({
       id,
     });
@@ -55,11 +70,12 @@ export class UsersController {
 
   @ApiBearerAuth()
   @UseGuards(AuthGuard)
+  @ApiParam({ name: 'id', type: 'string' })
   @Patch(':id')
   async update(
-    @User() reqUser: ReqUser,
-    @Param() { id }: UserIdParam,
+    @Param() { id }: UuidParam,
     @Body() updateUserDto: UpdateUserDto,
+    @User() reqUser: ReqUser,
   ) {
     if (reqUser.sub !== id) {
       throw new ForbiddenException(`User can only update you own user.`);
@@ -79,10 +95,12 @@ export class UsersController {
     });
   }
 
+  @HttpCode(HttpStatus.NO_CONTENT)
   @ApiBearerAuth()
   @UseGuards(AuthGuard)
+  @ApiParam({ name: 'id', type: 'string' })
   @Delete(':id')
-  async remove(@User() reqUser: ReqUser, @Param('id') id: string) {
+  async remove(@User() reqUser: ReqUser, @Param() { id }: UuidParam) {
     if (reqUser.sub !== id) {
       throw new ForbiddenException(`User can only delete you own user.`);
     }

@@ -15,79 +15,106 @@ generator client {
 }
 
 model User {
-  id         String       @id @default(uuid())
-  email      String       @unique
-  password   String
-  name       String
-  isActive   Boolean
-  createdAt  DateTime     @default(now())
-  updatedAt  DateTime     @updatedAt
+  id        String    @id @default(uuid())
+  email     String    @unique
+  password  String
+  name      String
+  isActive  Boolean
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+  type      UserTypes @default(USER)
+
   favorites  Favorite[]
   watchLater WatchLater[]
   watched    Watched[]
 }
 
+enum UserTypes {
+  ADMIN
+  USER
+}
+
 model Midia {
-  id          Int          @id @default(autoincrement())
+  id          String   @id @default(uuid())
   title       String
+  titleSlug   String   @unique
+  thumb       String
   description String
   debutYear   Int
   duration    Int
   categories  String[]
-  createdAt   DateTime     @default(now())
-  updatedAt   DateTime     @updatedAt
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
   Filme       Filme?
   Serie       Serie?
-  Favorite    Favorite[]
-  WatchLater  WatchLater[]
-  Watched     Watched[]
+
+  WatchLater WatchLater[]
+  Watched    Watched[]
+  type       MidiaTypes
+  Favorite   Favorite[]
+}
+
+enum MidiaTypes {
+  FILME
+  SERIE
 }
 
 model Filme {
-  id       Int    @id @default(autoincrement())
-  midia    Midia  @relation(fields: [id], references: [id])
+  id       String @id @default(uuid())
+  midia    Midia  @relation(fields: [id], references: [id], onDelete: Cascade)
   director String
 }
 
 model Serie {
-  id       Int   @id @default(autoincrement())
-  midia    Midia @relation(fields: [id], references: [id])
-  seasons  Int
-  episodes Int
+  id               String @id @default(uuid())
+  midia            Midia  @relation(fields: [id], references: [id], onDelete: Cascade)
+  seasons          Int
+  numberOfEpisodes Int
+
+  episodes SerieEpisode[]
+}
+
+model SerieEpisode {
+  id            String @id @default(uuid())
+  season        Int
+  episodeNumber Int
+  serieId       String
+
+  Serie Serie @relation(fields: [serieId], references: [id], onDelete: Cascade)
 }
 
 model Favorite {
-  id        Int      @id @default(autoincrement())
+  id        String   @id @default(uuid())
   userId    String
-  midiaId   Int
+  midiaId   String
   createdAt DateTime @default(now())
 
-  user  User  @relation(fields: [userId], references: [id])
-  midia Midia @relation(fields: [midiaId], references: [id])
+  user  User  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  midia Midia @relation(fields: [midiaId], references: [id], onDelete: Cascade)
 
   @@unique([userId, midiaId])
 }
 
 model WatchLater {
-  id        Int      @id @default(autoincrement())
+  id        String   @id @default(uuid())
   userId    String
-  midiaId   Int
+  midiaId   String
   createdAt DateTime @default(now())
 
-  user  User  @relation(fields: [userId], references: [id])
-  midia Midia @relation(fields: [midiaId], references: [id])
+  user  User  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  midia Midia @relation(fields: [midiaId], references: [id], onDelete: Cascade)
 
   @@unique([userId, midiaId])
 }
 
 model Watched {
-  id        Int      @id @default(autoincrement())
+  id        String   @id @default(uuid())
   userId    String
-  midiaId   Int
+  midiaId   String
   createdAt DateTime @default(now())
 
-  user  User  @relation(fields: [userId], references: [id])
-  midia Midia @relation(fields: [midiaId], references: [id])
+  user  User  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  midia Midia @relation(fields: [midiaId], references: [id], onDelete: Cascade)
 
   @@unique([userId, midiaId])
 }
