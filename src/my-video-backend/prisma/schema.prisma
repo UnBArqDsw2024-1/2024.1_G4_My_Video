@@ -10,26 +10,84 @@ datasource db {
 }
 
 generator client {
-  provider = "prisma-client-js"
+  provider        = "prisma-client-js"
+  previewFeatures = ["omitApi"]
 }
 
 model User {
-  id       Int     @id @default(autoincrement())
-  email    String  @unique
-  password String
-  name     String
-  isActive Boolean
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
+  id         String       @id @default(uuid())
+  email      String       @unique
+  password   String
+  name       String
+  isActive   Boolean
+  createdAt  DateTime     @default(now())
+  updatedAt  DateTime     @updatedAt
+  favorites  Favorite[]
+  watchLater WatchLater[]
+  watched    Watched[]
 }
 
 model Midia {
-  id          Int    @id @default(autoincrement())
+  id          Int          @id @default(autoincrement())
   title       String
   description String
   debutYear   Int
   duration    Int
   categories  String[]
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
+  Filme       Filme?
+  Serie       Serie?
+  Favorite    Favorite[]
+  WatchLater  WatchLater[]
+  Watched     Watched[]
+}
+
+model Filme {
+  id       Int    @id @default(autoincrement())
+  midia    Midia  @relation(fields: [id], references: [id])
+  director String
+}
+
+model Serie {
+  id       Int   @id @default(autoincrement())
+  midia    Midia @relation(fields: [id], references: [id])
+  seasons  Int
+  episodes Int
+}
+
+model Favorite {
+  id        Int      @id @default(autoincrement())
+  userId    String
+  midiaId   Int
   createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
+
+  user  User  @relation(fields: [userId], references: [id])
+  midia Midia @relation(fields: [midiaId], references: [id])
+
+  @@unique([userId, midiaId])
+}
+
+model WatchLater {
+  id        Int      @id @default(autoincrement())
+  userId    String
+  midiaId   Int
+  createdAt DateTime @default(now())
+
+  user  User  @relation(fields: [userId], references: [id])
+  midia Midia @relation(fields: [midiaId], references: [id])
+
+  @@unique([userId, midiaId])
+}
+
+model Watched {
+  id        Int      @id @default(autoincrement())
+  userId    String
+  midiaId   Int
+  createdAt DateTime @default(now())
+
+  user  User  @relation(fields: [userId], references: [id])
+  midia Midia @relation(fields: [midiaId], references: [id])
+
+  @@unique([userId, midiaId])
 }
