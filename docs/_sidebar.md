@@ -51,6 +51,7 @@
   - [4.1.1. Visão Lógica](/ArquiteturaReutilizacao/4.1.1.Visao_Logica.md)
   - [4.1.2. Visão de Dados](/ArquiteturaReutilizacao/4.1.2.VisaoDados.md)
   - [4.2. Módulo Reutilização de Software](/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
+    - [4.2.1. Reutilização de Software](/ArquiteturaReutilizacao/4.2.1_reutilizacaoDeSoftware.md)
   - [4.3. Participações - Arquitetura & Reutilização de Software](/ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)
 
 - **Atas de reuniões**
